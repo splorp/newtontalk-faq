@@ -14,7 +14,7 @@ Updated: 13 February 2011
 
 ## Part 1: Mailing List Conduct & Policies
 
-### i) Commercial Announcements & Items For Sale
+### Commercial Announcements & Items For Sale
 
 Commercial advertising from software, hardware, or service companies must be approved by the list administrators before being posted to the list. For approval, please contact:
 
@@ -31,7 +31,7 @@ To provide a clear indication that a message has an advertising or transactional
 
 When replying to transactional or other advertising messages, do *not* reply to the list. Reply directly to the author of the original message.
 
-### ii) Virus Warnings
+### Virus Warnings
 
 Do *not* post virus warnings to the list. This is simply not appropriate mailing list behaviour. Historically, many virus warning are hoaxes. The best resource for information regarding internet hoaxes, urban legends, and the like is Snopes:
 
@@ -39,7 +39,7 @@ Do *not* post virus warnings to the list. This is simply not appropriate mailing
 
 Even if it’s not a hoax, do *not* post virus warnings to the list.
 
-### iii) Anti-spam Software
+### Anti-spam Software
 
 If you use challenge and response anti-spam software, you must have the ability to white-list either:
 
@@ -59,7 +59,7 @@ If you receive an automated-reply from a mail-interception service in response t
 
 The list administrators will attempt remedy the situation.
 
-### iv) Off-topic Posts
+### Off-topic Posts
 
 Off-topic posts and threads are generally tolerated if they were spawned from an on-topic thread. This is a different policy from many other mailing lists which have established separate lists for off-topic subjects, but here at NewtonTalk we maintain a more casual atmosphere.
 
@@ -67,7 +67,7 @@ However, threads which stray into heated topics such as politics, personal belie
 
 Please tag any off-topic posts with an [OT] prefix in the subject line. This makes it easier for other list members who may not want to read these post to filter them out.
 
-### v) Polls & Surveys
+### Polls & Surveys
 
 Please do not post polls or survey questions to the list. If you have an idea for an interesting topic involving a poll or survey, please contact:
 
@@ -78,11 +78,11 @@ There are many services available that provide the means to easily create free o
 <a href="http://www.polldaddy.com/">polldaddy.com</a>
 <a href="http://www.surveymonkey.com/">surveymonkey.com</a>
 
-### vi) Quoting Limits
+### Quoting Limits
 
 The list software enforces rules for the maximum number of lines in any list message that it quoted from another message. If a message is over 50 lines total length, then the message must not be more than 70% quoted lines. If a message breaks this rule it will NOT be posted to the list; instead, the sender will receive a notification and be asked to revise and re-send their message.
 
-### vii) Message Archiving
+### Message Archiving
 
 Messages posted to NTLK are automatically included in two list archives:
 
@@ -93,7 +93,7 @@ Once a message is posted, it cannot be removed from the archive, either on www.n
 
 <a href="http://marc.10east.com/?q=about#Privacy">marc.10east.com/?q=about#Privacy</a>
 
-### viii) RSS Feed
+### RSS Feed
 
 The subject and first 100 lines of the latest 10 posts to the list are also available via an RSS 2.0 feed here:
 
@@ -101,11 +101,11 @@ The subject and first 100 lines of the latest 10 posts to the list are also avai
 
 Each entry in the RSS feed contains a link to the full message in the archive.
 
-### ix) Message formats and attachments
+### Message formats and attachments
 
 The list software automatically strips away attached files and HTML from messages. Everything is plain text for maximum compatibility with all mail software.
 
-### x) Other
+### Other
 
 E-mail addresses which encounter errors for more than 30 days will be removed from the list.
 
@@ -135,7 +135,7 @@ For more information see:
 
 <a href="http://www.newtontalk.net/archive/newtontalk.2004-03/1905.html">newtontalk.net/archive/newtontalk.2004-03/1905.html</a>
 
-### ii) Is there anything I should not post to the list?
+### Is there anything I should not post to the list?
 
 You should not post subscribe or unsubscribe requests to the list.
 
@@ -147,39 +147,39 @@ If someone posts something with which you are in particular agreement, that’s 
 
 ## Part 3: Mailing List Operations
 
-### i) How often is the digest sent?
+### How often is the digest sent?
 
 The digest is sent whenever its size reaches 50K, or every 12 hours, if the first condition isn’t reached.
 
-### ii) How do I subscribe to the list?
+### How do I subscribe to the list?
 
-### iii) How do I unsubscribe from the list?
+### How do I unsubscribe from the list?
 
-### iv) How do I receive the digest instead of individual messages?
+### How do I receive the digest instead of individual messages?
 
-### v) How do I receive individual messages instead of the digest?
+### How do I receive individual messages instead of the digest?
 
-### vi) How do I find out what my current status is?
+### How do I find out what my current status is?
 
 Use the handy, dandy web interface:
 
 <a href="http://www.newtontalk.net/">newtontalk.net</a>
 
-### vii) How do I set vacation mode?
+### How do I set vacation mode?
 
-### viii) How do I get out of vacation mode?
+### How do I get out of vacation mode?
 
 Send a message from your subscribed address to <a href="mailto:ecartis@newtontalk.net">ecartis@newtontalk.net</a> with the string “set vacation” (without quotes) in the subject line. You can leave the body of the message blank. To unset, change the word “set” above to “unset”.
 
-### ix) I tried to post this a file to the list and it didn’t show up. What gives?
+### I tried to post this a file to the list and it didn’t show up. What gives?
 
 The list software automatically strips away attached files and HTML from messages. Everything is plain text for maximum compatibility with all mail software.
 
-### x) I don’t want any more spam!
+### I don’t want any more spam!
 
-### xi) Remove all of my messages from the archive!
+### Remove all of my messages from the archive!
 
-### xii) Someone said something nasty about me, remove it from the list!
+### Someone said something nasty about me, remove it from the list!
 
 NewtonTalk is an open, public communications medium. All posts to the list are publicly archived in two places:
 
