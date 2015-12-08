@@ -1,24 +1,24 @@
 ﻿# NewtonTalk FAQ
 
-This document is an overview of frequently asked questions and etiquette guidelines for the NewtonTalk mailing list.
+Frequently asked questions, etiquette, and guidelines for the NewtonTalk mailing list.
 
 Updated: 13 February 2011
 
 ## Table of Contents
 
-1. Mailing List Conduct & Policies
-2. Mailing List Etiquette
-3. Mailing List Operations
-4. General Information & History
-5. Release Notes
+* Mailing List Conduct & Policies
+* Mailing List Etiquette
+* Mailing List Operations
+* General Information & History
+* Release Notes
 
-## Part 1: Mailing List Conduct & Policies
+## Mailing List Conduct & Policies
 
 ### Commercial Announcements & Items For Sale
 
 Commercial advertising from software, hardware, or service companies must be approved by the list administrators before being posted to the list. For approval, please contact:
 
-<a href="mailto:newtontalk-admins@newtontalk.net">newtontalk-admins@newtontalk.net</a>
+[newtontalk-admins@newtontalk.net](mailto:newtontalk-admins@newtontalk.net)
 
 Personal messages advertising items wanted or for sale are permitted, providing you are selling Newton devices, accessories, software, or related services. Please refrain from advertising Macs, PCs, furniture, livestock, or other non-Newton items.
 
@@ -49,13 +49,13 @@ continuity.cx
 
 Or all mail with the following in the ‘To:’ field:
 
-<a href="mailto:newtontalk@newtontalk.net">newtontalk@newtontalk.net</a>
+[newtontalk@newtontalk.net](mailto:newtontalk@newtontalk.net)
 
 If your anti-spam software sends messages directly to people who post to the list, you will be removed from the list until you remedy the problem.
 
 If you receive an automated-reply from a mail-interception service in response to a message that you posted to the list, do *not* complain on the list. Forward the entire message to:
 
-<a href="mailto:newtontalk-admins@newtontalk.net">newtontalk-admins@newtontalk.net</a>
+[newtontalk-admins@newtontalk.net](mailto:newtontalk-admins@newtontalk.net)
 
 The list administrators will attempt remedy the situation.
 
@@ -71,33 +71,31 @@ Please tag any off-topic posts with an [OT] prefix in the subject line. This mak
 
 Please do not post polls or survey questions to the list. If you have an idea for an interesting topic involving a poll or survey, please contact:
 
-<a href="mailto:newtontalk-admins@newtontalk.net">newtontalk-admins@newtontalk.net</a>
+[newtontalk-admins@newtontalk.net](mailto:newtontalk-admins@newtontalk.net)
 
-There are many services available that provide the means to easily create free online polls and surveys. For example:
-
-<a href="http://www.polldaddy.com/">polldaddy.com</a>
-<a href="http://www.surveymonkey.com/">surveymonkey.com</a>
+There are many services available that provide the means to easily create free online polls and surveys, such as [SurveyMonkey](https://www.surveymonkey.com/), [Google Forms](https://docs.google.com/forms/), and [Typeform](http://www.typeform.com/).
 
 ### Quoting Limits
 
-The list software enforces rules for the maximum number of lines in any list message that it quoted from another message. If a message is over 50 lines total length, then the message must not be more than 70% quoted lines. If a message breaks this rule it will NOT be posted to the list; instead, the sender will receive a notification and be asked to revise and re-send their message.
+The list software enforces rules for the maximum number of lines in any list message that it quoted from another message. If a message is over 50 lines total length, then the message must not be more than 70% quoted lines. If a message breaks this rule it will *not* be posted to the list; instead, the sender will receive a notification and be asked to revise and re-send their message.
 
 ### Message Archiving
 
 Messages posted to NTLK are automatically included in two list archives:
 
-<a href="http://www.newtontalk.net/archive/">newtontalk.net/archive/</a><br />
-<a href="http://marc.10east.com/?l=newtontalk">marc.10east.com/?l=newtontalk</a>
+[newtontalk.net/archive/](http://www.newtontalk.net/archive/)
+
+[marc.10east.com/?l=newtontalk](http://marc.10east.com/?l=newtontalk)
 
 Once a message is posted, it cannot be removed from the archive, either on www.newtontalk.net or MARC. NewtonTalk informally follows MARC’s policy on privacy, which you can read at:
 
-<a href="http://marc.10east.com/?q=about#Privacy">marc.10east.com/?q=about#Privacy</a>
+[marc.10east.com/?q=about#Privacy](http://marc.10east.com/?q=about#Privacy)
 
 ### RSS Feed
 
 The subject and first 100 lines of the latest 10 posts to the list are also available via an RSS 2.0 feed here:
 
-<a href="http://www.newtontalk.net/newtontalk.rss">newtontalk.net/newtontalk.rss</a>
+[newtontalk.net/newtontalk.rss](http://www.newtontalk.net/newtontalk.rss)
 
 Each entry in the RSS feed contains a link to the full message in the archive.
 
@@ -107,23 +105,19 @@ The list software automatically strips away attached files and HTML from message
 
 ### Other
 
-E-mail addresses which encounter errors for more than 30 days will be removed from the list.
+Email addresses which encounter errors for more than 30 days will be removed from the list.
 
-## Part 2: Mailing List Etiquette
+## Mailing List Etiquette
 
-In general, the best place to go to read about netiquette is RFC 1855:
+Generally speaking, the best place to read about netiquette is [RFC 1855](https://www.ietf.org/rfc/rfc1855.txt).
 
-<a href="http://www.dtcc.edu/cs/rfc1855.html">www.dtcc.edu/cs/rfc1855.html</a>
-
-Many large parts of this have been borrowed from the Mailing List Etiquette FAQ:
-
-<a href="http://www.gweep.ca/~edmonds/usenet/ml-etiquette.html">www.gweep.ca/~edmonds/usenet/ml-etiquette.html</a>
+Significant parts of this FAQ have been lovingly borrowed from the [Mailing List Etiquette FAQ](http://www.gweep.ca/~edmonds/usenet/ml-etiquette.html) by Brian Edmonds.
 
 ### How should I post or reply to messages from the list?
 
 In short, courteously, properly, concisely, and to the right address:
 
-<a href="mailto:newtontalk@newtontalk.net">newtontalk@newtontalk.net</a>
+[newtontalk@newtontalk.net](mailto:newtontalk@newtontalk.net)
 
 When replying to messages you receive from the list, you should acquaint yourself with the reply options of your mail reader. Most mail programs will have at least two reply modes: private and group. A private reply will go only to the person who sent the original message. A group reply by default should go to the original author, the list, and to any people who received private copies of the original message. You should be able to edit this list of addresses to reduce it to just the list address, plus any other people you think should receive private copies.
 
@@ -133,7 +127,7 @@ When creating a new topic, please start with a new message in your email softwar
 
 For more information see:
 
-<a href="http://www.newtontalk.net/archive/newtontalk.2004-03/1905.html">newtontalk.net/archive/newtontalk.2004-03/1905.html</a>
+[newtontalk.net/archive/newtontalk.2004-03/1905.html](http://www.newtontalk.net/archive/newtontalk.2004-03/1905.html)
 
 ### Is there anything I should not post to the list?
 
@@ -145,7 +139,7 @@ Also, you should not post inflammatory (aka flame) mail to the list. It is perfe
 
 If someone posts something with which you are in particular agreement, that’s great. You should not, however, follow up to the list with a post containing no more than “Me too!” or “Right on, brother!” If you have something of substance to add to the discussion, then by all means do so, but if you simply wish to express a simple agreement, then do it in private mail.
 
-## Part 3: Mailing List Operations
+## Mailing List Operations
 
 ### How often is the digest sent?
 
@@ -163,13 +157,13 @@ The digest is sent whenever its size reaches 50K, or every 12 hours, if the firs
 
 Use the handy, dandy web interface:
 
-<a href="http://www.newtontalk.net/">newtontalk.net</a>
+[newtontalk.net](http://www.newtontalk.net/)
 
 ### How do I set vacation mode?
 
 ### How do I get out of vacation mode?
 
-Send a message from your subscribed address to <a href="mailto:ecartis@newtontalk.net">ecartis@newtontalk.net</a> with the string “set vacation” (without quotes) in the subject line. You can leave the body of the message blank. To unset, change the word “set” above to “unset”.
+Send a message from your subscribed address to [ecartis@newtontalk.net](mailto:ecartis@newtontalk.net) with the string “set vacation” (without quotes) in the subject line. You can leave the body of the message blank. To unset, change the word “set” above to “unset”.
 
 ### I tried to post this a file to the list and it didn’t show up. What gives?
 
@@ -185,21 +179,21 @@ NewtonTalk is an open, public communications medium. All posts to the list are p
 
 On the NTLK website:
 
-<a href="http://www.newtontalk.net/archive/">newtontalk.net/archive/</a>
+[newtontalk.net/archive/](http://www.newtontalk.net/archive/)
 
 On the searchable MARC archive:
 
-<a href="http://marc.10east.com/?l=newtontalk">marc.10east.com/?l=newtontalk</a>
+[marc.10east.com/?l=newtontalk](http://marc.10east.com/?l=newtontalk)
 
-Once a message is posted to the list, it cannot and will not be removed from any of the archives. For one, this would be altering the public record of what happened on the list, and we wish to preserve this for as long as we can. Also, MARC will only remove messages if ordered to do so by an appropriate court order (threatening e-mails from lawyers will not get their attention).
+Once a message is posted to the list, it cannot and will not be removed from any of the archives. For one, this would be altering the public record of what happened on the list, and we wish to preserve this for as long as we can. Also, MARC will only remove messages if ordered to do so by an appropriate court order (threatening emails from lawyers will not get their attention).
 
-## Part 4: General Information & History
+## General Information & History
 
 ### What is the NewtonTalk list?
 
 NewtonTalk is a mailing list run by the Newton community, dedicated to discussion of the Newton line of handheld computers and related products. (We do go off-topic occasionally, though).
 
-### Who in charge around here?
+### Who’s in charge around here?
 
 The list is currently managed by Grant Hutchinson. Unix twiddling and mailing list administration are not necessarily within his primary comfort zone. With that in mind, please keep him in your prayers.
 
@@ -233,33 +227,40 @@ In May 2001, PlanetNewton.com experienced a total server failure. Their website 
 
 Victor Rehorst and Paul Guyot were co-adminstrators of the list from the transition to NewtonTalk.net until early 2007. Grant Hutchinson took over list administration duties in March 2007.
 
-## Part 5: Release Notes
+## Release Notes
 
-### 13 February 2011
+#### 08 December 2015
+
+* Migrated document to GitHub
+* Converted document formatting to Markdown
+* Consolidated legacy versions prior to further updates
+* Minor formatting and text tweaks
+
+#### 13 February 2011
 
 * Added introductory statement
 * Updated mail server name in ‘Anti-spam Software’
 * Added third party poll services to ‘Polls & Surveys’
 * Minor formatting changes and other edits
 
-### 06 Aug 2008
+#### 06 August 2008
 
 * Rewrote ‘New Thread’ section of ‘Mailing List Etiquette’
 
-### 31 Oct 2007
+#### 31 October 2007
 
-* Began converting the document formatting to use Textile markup
+* Began converting document formatting to Textile
 * Split out individual questions for subsections of ‘Mailing List Operations’
 
-### 30 Oct 2007
+#### 30 October 2007
 
 * Added ‘Release Notes’ section
 * Updated and clarified section headers
 * Reordered ‘List Operations’ and ‘General Information & History’ sections
-* Updated the ‘Who in charge around here?’ section
-* Standardized the formatting of all URLs and e-mail addresses
+* Updated the ‘Who’s in charge around here?’ section
+* Standardized the formatting of all URLs and email addresses
 * Tweaked some text here and there, correcting a few typos along the way
 
-### 05 Jun 2006
+#### 05 June 2006
 
-* Initial document passed along from Victor to Grant
+* Document passed from Victor Rehorst to Grant Hutchinson
