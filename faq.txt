@@ -1,0 +1,315 @@
+NewtonTalk list FAQ and Etiquette
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last updated 2006 June 5
+
+TABLE OF CONTENTS:
+
+1. List Policies
+2. List Etiquette
+3. General list info and history
+4. Questions about list operations
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+PART 1: LIST CONDUCT AND POLICIES
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+i. Commercial and For-Sale announcements
+
+  Commercial ads from companies must be approved before being posted
+  to the list.  For approval, please contact newtontalk-admins@newtontalk.net
+
+  Personal buy/sell messages are OK, as long as you are selling NEWTONS, 
+  EMATES, or related accessories or software / services.  Not Macs, PCs, 
+  furniture, or anything else.  We ask that you tag your subject line
+  appropriately depending on the type of message:
+
+  - [WTB] - Wanted To Buy (looking for some merchandies)
+  - [FS] - For Sale (private sale on the list, NOT AN AUCTION)
+  - [FA] - For Auction (auction on eBay)
+  - [FT] - For Trade (trade XXX goods for Newton or vice-versa)
+
+  Replies to for-sale messages should NOT be sent to the list.
+
+ii. Virus Warnings
+
+  Please do NOT post virus warnings to the list.  This is not appropriate!
+  Many of these are hoaxes.  The best website to visit to find out about
+  hoaxes, urban legends, and the like is Snopes:
+
+  http://www.snopes.com/
+
+  Even if it's not a hoax, DON'T POST VIRUS WARNINGS TO THE LIST.
+
+iii. Anti-spam software
+
+  if you use a challenge/response type of anti-spam software, you must 
+  have the ability to white-list all mail from our server 
+  (mail.continuity.cx) or all mail with the To: field set to 
+  "newtontalk@newtontalk.net".  If your anti-spam software sends messages 
+  directly to people who post to the list, you will be removed from the 
+  list until you remedy the problem.
+
+  If you happen to receive an automated-reply or a response from a
+  mail-intercept service in response to a message that you posted to the
+  list, DON'T complain on the list.  Please forward the message the message to
+  newtontalk-admins@newtontalk.net so that we can remedy the situation.
+
+iv. Off-topic topics
+
+  Off-topic posts and threads are generally tolerated if they were spawned
+  from an on-topic thread.  This is a different policy from many other 
+  mailing lists which have established separate lists for off-topic subjects,
+  but here at NTLK we maintain a more casual atmosphere.
+
+  However, threads which stray into heated topics such as politics, personal
+  beliefs, morality, PC vs. Mac discussions and the like should not exist on
+  the list.  Please take these topics to a more appropriate forum (like Usenet).
+
+  Please tag any off-topic posts with [OT] in the subject line, so that people
+  who do not want to read them can easily filter them out.
+
+v. Poll-type topics
+
+  Please do not post poll-type questions to the list.  If you have an idea
+  for an interesting poll topic, please e-mail newtontalk-admins@newtontalk.net
+  and we will setup a poll on the newtontalk.net webpage and announce it to
+  the list.
+
+vi. Quoting Limits
+
+  The list software enforces rules for the maximum number of lines in any
+  list message that it quoted from another message.  If a message is over
+  50 lines total length, then the message must not be more than 70% quoted
+  lines.  If a message breaks this rule it will NOT be posted to the list;
+  instead, the sender will recieve a notification and be asked to revise
+  and re-send their message.
+
+vii. Message Archiving
+
+  Messages posted to NTLK are automatically included in two list archives:
+  http://www.newtontalk.net/archive/
+  and
+  http://marc.10east.com/?l=newtontalk
+
+  Once a message is posted, it cannot be removed from the archive, either 
+  on www.newtontalk.net or MARC.  NewtonTalk informally follows MARC's 
+  policy on privacy, which you can read at:
+  http://marc.10east.com/?q=about#Privacy
+
+viii. RSS Feed
+
+  The subject and first 100 lines of the latest 10 posts to the list are
+  also available via an RSS 2.0 feed here:
+  http://www.newtontalk.net/newtontalk.rss
+
+  Each entry in the RSS feed contains a link to the full message in the archive.
+
+ix. Message formats and attachments
+
+  The list software automatically strips away attached files and HTML from 
+  messages.  Everything is plain text for maximum compatibility with all 
+  mail software.
+
+x. Other
+
+  E-mail addresses which encounter errors for more than 30 days will be 
+  removed from the list.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+PART 2: LIST ETIQUETTE
+~~~~~~~~~~~~~~~~~~~~~~
+
+In general, the best place to go to read about netiquette is RFC 1855:
+http://www.dtcc.edu/cs/rfc1855.html
+
+Many large parts of this have been borrowed from the Mailing List 
+Etiquette FAQ: http://www.gweep.ca/~edmonds/usenet/ml-etiquette.html
+
+How should I post to/reply to messages from the list?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In short, courteously, properly, concisely, and to the right address: 
+newtontalk@newtontalk.net
+
+When replying to messages you receive from the list, you should acquaint 
+yourself with the reply options of your mail reader. Most mail programs 
+will have at least two reply modes: private and group. A private reply 
+will go only to the person who sent the original message. A group reply by 
+default should go to the original author, the list, and to any people who 
+received private copies of the original message. You should be able to 
+edit this list of addresses to reduce it to just the list address, plus 
+any other people you think should receive private copies. 
+
+when quoting, be very careful to edit the quoted sections down to the bare
+minimum of text needed to maintain the context for your reply. There is
+very little on a mailing list that is more annoying than paging through a
+few pages of quoted text only to read a few lines at the end. Also be
+careful that you clearly indicate what text you're quoting (as opposed to
+what you're writing), and if possible, cite the author of the original
+text.  If your mail program wants to attach the whole message you're
+replying to on the end of your replies, please do not let it do this if
+you can possibly avoid it.
+
+When you are creating a new message topic, please start with a fresh,
+clean message in your mail reader by using the "Compose" or "New Message"
+button, instead of hitting "Reply" to a list message and replacing the
+subject and body.  The reason is, when you hit "Reply" your mail reader
+will ensure that your message is included in the thread of the other topic,
+and for people who rely on threading this causes confusion.  For more
+information see:
+
+http://www.newtontalk.net/archive/newtontalk.2004-03/1905.html
+
+Is there anything I should not post to the list?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+You should not post subscribe or unsubscribe requests to the list.
+
+The basic rule is that as long as your post has some content related to 
+the primary subject of the list, and does not contain much off-topic 
+material, then it is fine for the list. Specifically, for almost every 
+list, this will immediately rule out many or all commercial ads, postings 
+on how to make money (such as MAKE MONEY FAST), sociology surveys, help 
+with homework, hot international news, and requests for people to send 
+birthday greetings to your friend.
+
+Also, you should not post inflammatory (aka flame) mail to the list. It is 
+perfectly fine to disagree with people publicly, but be careful how you do 
+it. For example, if you think someone is lying on a subject, it may be 
+fine to say ``Betty's claims about Wilma's hair stylist are a lie,'' but 
+it is over the line to say ``Betty is a liar''. 
+
+If someone posts something with which you are in particular agreement, 
+that's great. You should not, however, follow up to the list with a post 
+containing no more than ``Me too!'' or ``Right on, brother!'' If you have 
+something of substance to add to the discussion, then by all means do so, 
+but if you simply wish to express a simple agreement, then do it in 
+private mail. 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+PART 3: GENERAL LIST INFO AND HISTORY
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+What is the NewtonTalk list?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+NewtonTalk is a mailing list run by the Newton community, dedicated to
+discussion of the Newton line of handheld computers and related products.
+(We do go off-topic occasionally, though).
+
+
+Who runs the list?
+~~~~~~~~~~~~~~~~~~
+
+The list itself is currently managed by Victor Rehorst.  The list server
+is hosted by Bill Shamam and continuity.cx.  The web interface was written
+by Paul Guyot.  The assistant list admins are Paul Guyot and Grant Hutchinson.
+
+
+What software does the list run?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Newtontalk runs on 100% free software!  We use the eCartis mailing list
+manager coupled with the Postfix mail delivery agent to transmit our pirate
+signal into The Matri.... uh, send our messages out :)
+
+
+What happened to Planet Newton running the list?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We have executed a coup.
+
+
+What the heck does that mean??
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Okay, here's the history:
+
+Before June 1999, the list was run by one guy, Sean O'Shaughnessy, aka the 
+"list dad."  Things were happy and carefree, and the Newton had just been 
+cancelled, so no one was too worried :)
+
+However, in 1999 Sean could no longer host the list on his own, and so 
+asked for someone to pick it up.  PlanetNewton.com stepped in and agreed 
+to take over the list for Sean.
+
+Things were alright for a while, but sometime in 2000 the list had
+problems: outages, duplicate messages, people being randomly unsubscribed,
+dropped digest subscribers and the like.  Sometimes they were fixed, but
+many people became frustrated at PN's attitude towards the list
+management.  Many felt that they just didn't care.  Two "emergency" lists 
+were started in case PN went down.
+
+During this time, many people asked Planet Newton if they would consider 
+giving up the list, since they were obviously having problems managing it.  
+All request (as far as the author knows) were met with denials.
+
+In May 2001, PlanetNewton.com experienced a total server failure.  Their 
+website and the mailing list suddenly disappeared.  An effort to replace 
+PN's list with a community-run server had already been in the works for 
+several months, though.  On June 12, 2001, NewtonTalk.net was launched.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+PART 4: QUESTIONS ABOUT LIST OPERATIONS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+How often is the digest sent?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The digest is sent whenever its size reaches 50K, or every 12 hours, if 
+the first condition isn't reached.
+
+
+How do I subscribe/unsubscribe/set digest/unset digest/find out my status?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Use the interface at http://www.newtontalk.net/
+
+
+How do I set/unset vacation mode?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Send a message from your subscribed address to listar@newtontalk.net with 
+the string "set vacation" (without quotes) in the subject line.  You can 
+leave the body of the message blank.  To unset, change the word "set" 
+above to "unset".
+
+
+I tried to post this cool file to the list and it didn't show up! What gives?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The list software automatically strips away attached files and HTML from 
+messages.  Everything is plain text for maximum compatibility with all 
+mail software.
+
+
+I don't want any more spam!!! Remove all of my messages from the archive!
+                                    or
+Someone said something nasty about me on the list, I demand that you remove it.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+NewtonTalk is an open, public communications medium.  All posts to the 
+list are publically archived in two places:
+
+- On the NTLK website at http://www.newtontalk.net/archive/
+- On the searchable MARC archive at http://marc.10east.com/?l=newtontalk
+
+Once a message is posted to the list, it cannot and will not be removed 
+from any of the archives.  For one, this would be altering the public 
+record of what happened on the list, and we wish to preserve this for as 
+long as we can.  Also, MARC will only remove messages if ordered to do so 
+by an appropriate court order (threatening e-mails from lawyers will not 
+get their attention).
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
