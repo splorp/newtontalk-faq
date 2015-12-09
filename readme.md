@@ -17,7 +17,7 @@ Frequently asked questions, etiquette, and guidelines for the [NewtonTalk](http:
 
 #### Suggestions or corrections?
 
-[glossary@splorp.com](mailto:glossary@splorp.com)
+[admin@newtontalk.net](mailto:admin@newtontalk.net)
 
 #### Follow us on Twitter.
 
