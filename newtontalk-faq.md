@@ -33,15 +33,13 @@ When replying to transactional or other advertising messages, do *not* reply to 
 
 ### Virus Warnings
 
-Do *not* post virus warnings to the list. This is simply not appropriate mailing list behaviour. Historically, many virus warning are hoaxes. The best resource for information regarding internet hoaxes, urban legends, and the like is Snopes:
+Do *not* post virus warnings to the list. This is simply not appropriate mailing list behaviour. Historically, most virus warnings are hoaxes. The best resource for information regarding internet hoaxes, urban legends, and the like is [Snopes](http://www.snopes.com/).
 
-<a href="http://www.snopes.com/">snopes.com</a>
-
-Even if it’s not a hoax, do *not* post virus warnings to the list.
+Finally, even if it’s a real virus warning, do *not* post it the list.
 
 ### Anti-spam Software
 
-If you use challenge and response anti-spam software, you must have the ability to white-list either:
+If you use challenge and response anti-spam software, you must have the ability to whitelist either:
 
 All mail from our server:
 
@@ -51,9 +49,9 @@ Or all mail with the following in the ‘To:’ field:
 
 [newtontalk@newtontalk.net](mailto:newtontalk@newtontalk.net)
 
-If your anti-spam software sends messages directly to people who post to the list, you will be removed from the list until you remedy the problem.
+If your antispam software sends messages directly to people who post to the list, you will be removed from the list until you remedy the problem.
 
-If you receive an automated-reply from a mail-interception service in response to a message that you posted to the list, do *not* complain on the list. Forward the entire message to:
+If you receive an automated reply from a mail interception service in response to a message that you posted to the list, do *not* complain on the list. Forward the entire message to:
 
 [newtontalk-admins@newtontalk.net](mailto:newtontalk-admins@newtontalk.net)
 
@@ -87,17 +85,11 @@ Messages posted to NTLK are automatically included in two list archives:
 
 [marc.10east.com/?l=newtontalk](http://marc.10east.com/?l=newtontalk)
 
-Once a message is posted, it cannot be removed from the archive, either on www.newtontalk.net or MARC. NewtonTalk informally follows MARC’s policy on privacy, which you can read at:
-
-[marc.10east.com/?q=about#Privacy](http://marc.10east.com/?q=about#Privacy)
+Once a message is posted, it cannot be removed from the archive, either on the NewtonTalk site or MARC. NewtonTalk informally follows MARC’s [privacy policy](http://marc.10east.com/?q=about#Privacy).
 
 ### RSS Feed
 
-The subject and first 100 lines of the latest 10 posts to the list are also available via an RSS 2.0 feed here:
-
-[newtontalk.net/newtontalk.rss](http://www.newtontalk.net/newtontalk.rss)
-
-Each entry in the RSS feed contains a link to the full message in the archive.
+The subject and first 100 lines of the latest 10 posts to the list are also available via an RSS 2.0 [feed](http://www.newtontalk.net/newtontalk.rss) (currently broken). Each entry in the RSS feed contains a link to the full message in the archive.
 
 ### Message formats and attachments
 
