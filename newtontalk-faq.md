@@ -2,15 +2,49 @@
 
 Frequently asked questions, etiquette, and guidelines for the NewtonTalk mailing list.
 
-Updated: 13 February 2011
+Updated: 13 December 2015
 
 ## Table of Contents
 
-* Mailing List Conduct & Policies
-* Mailing List Etiquette
-* Mailing List Operations
-* General Information & History
-* Release Notes
+* [Mailing List Etiquette](#mailing-list-etiquette)
+* [Mailing List Conduct & Policies](#mailing-list-conduct--policies)
+* [Mailing List Operations](#mailing-list-operations)
+* [General Information & History](#general-information--history)
+* [Release Notes](#release-notes)
+
+## Mailing List Etiquette
+
+Generally speaking, the best place to read about netiquette is [RFC 1855](https://www.ietf.org/rfc/rfc1855.txt).
+
+Significant parts of this FAQ have been lovingly borrowed from the [Mailing List Etiquette FAQ](http://www.gweep.ca/~edmonds/usenet/ml-etiquette.html) by Brian Edmonds.
+
+### How should I post or reply to messages from the list?
+
+In short, courteously, properly, concisely, and to the right address:
+
+[newtontalk@newtontalk.net](mailto:newtontalk@newtontalk.net)
+
+When replying to messages you receive from the list, you should acquaint yourself with the reply options of your mail reader. Most mail programs will have at least two reply modes: private and group. A private reply will go only to the person who sent the original message. A group reply by default should go to the original author, the list, and to any people who received private copies of the original message. You should be able to edit this list of addresses to reduce it to just the list address, plus any other people you think should receive private copies.
+
+When quoting, be very careful to edit the quoted sections down to the bare minimum of text needed to maintain the context for your reply. There is very little on a mailing list that is more annoying than paging through a few pages of quoted text only to read a few lines at the end. Also be careful that you clearly indicate what text you’re quoting (as opposed to what you’re writing), and if possible, cite the author of the original text. If your mail program wants to attach the whole message you’re replying to on the end of your replies, please do not let it do this if you can possibly avoid it.
+
+When creating a new topic, please start with a new message in your email software by using the “Compose”, “New Message”, or similar command. Do not simply “Reply” to an existing list message and replace the subject and body. When you use “Reply”, your email software ensures that your new message is included in the existing thread of the original topic. This causes confusion for people who rely on “threading” or “messsage grouping” in their email software and in the list archives.
+
+For more information see:
+
+[newtontalk.net/archive/newtontalk.2004-03/1905.html](http://www.newtontalk.net/archive/newtontalk.2004-03/1905.html)
+
+### Is there anything I should not post to the list?
+
+You should not post subscribe or unsubscribe requests to the list.
+
+The basic rule is that as long as your post has some content related to the primary subject of the list, and does not contain much off-topic material, then it is fine for the list. Specifically, for almost every list, this will immediately rule out many or all commercial ads, postings on how to make money (such as MAKE MONEY FAST), sociology surveys, help with homework, hot international news, and requests for people to send birthday greetings to your friend.
+
+Also, you should not post inflammatory (aka flame) mail to the list. It is perfectly fine to disagree with people publicly, but be careful how you do it. For example, if you think someone is lying on a subject, it may be fine to say “Betty’s claims about Wilma’s hair stylist are a lie,” but it is over the line to say “Betty is a liar”.
+
+If someone posts something with which you are in particular agreement, that’s great. You should not, however, follow up to the list with a post containing no more than “Me too!” or “Right on, brother!” If you have something of substance to add to the discussion, then by all means do so, but if you simply wish to express a simple agreement, then do it in private mail.
+
+Refer to the next section, [Mailing List Conduct & Policies](#mailing-list-conduct--policies), for additional posting guidelines.
 
 ## Mailing List Conduct & Policies
 
@@ -98,38 +132,6 @@ The list software automatically strips away attached files and HTML from message
 ### Other
 
 Email addresses which encounter errors for more than 30 days will be removed from the list.
-
-## Mailing List Etiquette
-
-Generally speaking, the best place to read about netiquette is [RFC 1855](https://www.ietf.org/rfc/rfc1855.txt).
-
-Significant parts of this FAQ have been lovingly borrowed from the [Mailing List Etiquette FAQ](http://www.gweep.ca/~edmonds/usenet/ml-etiquette.html) by Brian Edmonds.
-
-### How should I post or reply to messages from the list?
-
-In short, courteously, properly, concisely, and to the right address:
-
-[newtontalk@newtontalk.net](mailto:newtontalk@newtontalk.net)
-
-When replying to messages you receive from the list, you should acquaint yourself with the reply options of your mail reader. Most mail programs will have at least two reply modes: private and group. A private reply will go only to the person who sent the original message. A group reply by default should go to the original author, the list, and to any people who received private copies of the original message. You should be able to edit this list of addresses to reduce it to just the list address, plus any other people you think should receive private copies.
-
-When quoting, be very careful to edit the quoted sections down to the bare minimum of text needed to maintain the context for your reply. There is very little on a mailing list that is more annoying than paging through a few pages of quoted text only to read a few lines at the end. Also be careful that you clearly indicate what text you’re quoting (as opposed to what you’re writing), and if possible, cite the author of the original text. If your mail program wants to attach the whole message you’re replying to on the end of your replies, please do not let it do this if you can possibly avoid it.
-
-When creating a new topic, please start with a new message in your email software by using the “Compose”, “New Message”, or similar command. Do not simply “Reply” to an existing list message and replace the subject and body. When you use “Reply”, your email software ensures that your new message is included in the existing thread of the original topic. This causes confusion for people who rely on “threading” or “messsage grouping” in their email software and in the list archives.
-
-For more information see:
-
-[newtontalk.net/archive/newtontalk.2004-03/1905.html](http://www.newtontalk.net/archive/newtontalk.2004-03/1905.html)
-
-### Is there anything I should not post to the list?
-
-You should not post subscribe or unsubscribe requests to the list.
-
-The basic rule is that as long as your post has some content related to the primary subject of the list, and does not contain much off-topic material, then it is fine for the list. Specifically, for almost every list, this will immediately rule out many or all commercial ads, postings on how to make money (such as MAKE MONEY FAST), sociology surveys, help with homework, hot international news, and requests for people to send birthday greetings to your friend.
-
-Also, you should not post inflammatory (aka flame) mail to the list. It is perfectly fine to disagree with people publicly, but be careful how you do it. For example, if you think someone is lying on a subject, it may be fine to say “Betty’s claims about Wilma’s hair stylist are a lie,” but it is over the line to say “Betty is a liar”.
-
-If someone posts something with which you are in particular agreement, that’s great. You should not, however, follow up to the list with a post containing no more than “Me too!” or “Right on, brother!” If you have something of substance to add to the discussion, then by all means do so, but if you simply wish to express a simple agreement, then do it in private mail.
 
 ## Mailing List Operations
 
