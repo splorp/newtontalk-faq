@@ -6,11 +6,26 @@ Updated: 13 December 2015
 
 ## Table of Contents
 
+* [General Information](#general-information)
 * [Mailing List Etiquette](#mailing-list-etiquette)
 * [Mailing List Conduct & Policies](#mailing-list-conduct--policies)
 * [Mailing List Operations](#mailing-list-operations)
-* [General Information & History](#general-information--history)
+* [NewtonTalk History](#newtontalk-history)
 * [Release Notes](#release-notes)
+
+## General Information
+
+### What is NewtonTalk?
+
+NewtonTalk is a mailing list directly supported by the Newton user community and dedicated to the discussion of Apple’s Newton OS-based handheld computers and related topics.
+
+### Who runs NewtonTalk?
+
+The website and mailing list are currently managed by [Grant Hutchinson](http://splorp.com/). Previous list dads, administrators, and sidekicks are mentioned in the [NewtonTalk History](#newtontalk-history) section.
+
+### What are some of the technical details?
+
+The NewtonTalk website and mailing list are hosted by the kind folks at [Media Temple](https://mediatemple.net/). The website is built using straight up HTML, CSS, and [BBEdit](http://www.barebones.com/products/bbedit/). To manage the list itself, we are using a slightly creaky version of [Mailman](http://list.org/) that comes preinstalled with the [Plesk](http://www.plesk.com/) web management suite.
 
 ## Mailing List Etiquette
 
@@ -28,7 +43,7 @@ When replying to messages you receive from the list, you should acquaint yoursel
 
 When quoting, be very careful to edit the quoted sections down to the bare minimum of text needed to maintain the context for your reply. There is very little on a mailing list that is more annoying than paging through a few pages of quoted text only to read a few lines at the end. Also be careful that you clearly indicate what text you’re quoting (as opposed to what you’re writing), and if possible, cite the author of the original text. If your mail program wants to attach the whole message you’re replying to on the end of your replies, please do not let it do this if you can possibly avoid it.
 
-When creating a new topic, please start with a new message in your email software by using the “Compose”, “New Message”, or similar command. Do not simply “Reply” to an existing list message and replace the subject and body. When you use “Reply”, your email software ensures that your new message is included in the existing thread of the original topic. This causes confusion for people who rely on “threading” or “messsage grouping” in their email software and in the list archives.
+When creating a new topic, please start with a new message in your email software by using the “Compose”, “New Message”, or similar command. Do not simply “Reply” to an existing list message and replace the subject and body. When you use “Reply”, your email software ensures that your new message is included in the existing thread of the original topic. This causes confusion for people who rely on “threading” or “message grouping” in their email software and in the list archives.
 
 For more information see:
 
@@ -73,7 +88,7 @@ Finally, even if it’s a real virus warning, do *not* post it the list.
 
 ### Anti-spam Software
 
-If you use challenge and response anti-spam software, you must have the ability to whitelist either:
+If you use challenge and response antispam software, you must have the ability to whitelist either:
 
 All mail from our server:
 
@@ -181,23 +196,7 @@ On the searchable MARC archive:
 
 Once a message is posted to the list, it cannot and will not be removed from any of the archives. For one, this would be altering the public record of what happened on the list, and we wish to preserve this for as long as we can. Also, MARC will only remove messages if ordered to do so by an appropriate court order (threatening emails from lawyers will not get their attention).
 
-## General Information & History
-
-### What is the NewtonTalk list?
-
-NewtonTalk is a mailing list run by the Newton community, dedicated to discussion of the Newton line of handheld computers and related products. (We do go off-topic occasionally, though).
-
-### Who’s in charge around here?
-
-The list is currently managed by Grant Hutchinson. Unix twiddling and mailing list administration are not necessarily within his primary comfort zone. With that in mind, please keep him in your prayers.
-
-The list server and web site are graciously hosted by Bill Shamam and the fine worker bees at Continuity.cx. The spartan, but functional web interface was written by the indubitable Paul Guyot.
-
-List dad emeritus is Victor Rehorst.
-
-### What software does the list run?
-
-Newtontalk runs on 100% free software! We use the eCartis mailing list manager coupled with the Postfix mail delivery agent to transmit our pirate signal into The Matri… uh, send our messages out :)
+## NewtonTalk History
 
 ### What happened to Planet Newton running the list?
 
@@ -219,7 +218,13 @@ During this time, many people asked Planet Newton if they would consider giving 
 
 In May 2001, PlanetNewton.com experienced a total server failure. Their website and the mailing list suddenly disappeared. An effort to replace PN’s list with a community-run server had already been in the works for several months, though. On June 12, 2001, NewtonTalk.net was launched.
 
-Victor Rehorst and Paul Guyot were co-adminstrators of the list from the transition to NewtonTalk.net until early 2007. Grant Hutchinson took over list administration duties in March 2007.
+Victor Rehorst and Paul Guyot were co-administrators of the list from the transition to NewtonTalk.net until early 2007. Grant Hutchinson took over list administration duties in March 2007.
+
+The list server and web site were graciously hosted by Bill Shamam and the fine worker bees at Continuity.cx.
+
+The spartan, but functional web interface was written by the indubitable Paul Guyot.
+
+List dad emeritus is Victor Rehorst.
 
 ## Release Notes
 
