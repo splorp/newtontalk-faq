@@ -2,7 +2,7 @@
 
 Frequently asked questions, etiquette, and guidelines for the NewtonTalk mailing list.
 
-Updated: 13 December 2015
+Updated: 19 January 2016
 
 ## Table of Contents
 
@@ -25,13 +25,13 @@ The website and mailing list are currently managed by [Grant Hutchinson](http://
 
 ### What are some of the technical details?
 
-The NewtonTalk website and mailing list are hosted by the kind folks at [Media Temple](https://mediatemple.net/). The website is built using straight up HTML, CSS, and [BBEdit](http://www.barebones.com/products/bbedit/). To manage the list itself, we are using a slightly creaky version of [Mailman](http://list.org/) that comes preinstalled with the [Plesk](http://www.plesk.com/) web management suite.
+The NewtonTalk website and mailing list are hosted by the kind folks at [Media Temple](https://mediatemple.net/). The website is built using straight up HTML, CSS, and [BBEdit](http://www.barebones.com/products/bbedit/). To manage the list, we are using a slightly creaky version of [Mailman](http://list.org/) that comes preinstalled with the [Plesk](http://www.plesk.com/) web management suite. It’s not pretty, but it works.
 
 ## Mailing List Etiquette
 
-Generally speaking, the best place to read about netiquette is [RFC 1855](https://www.ietf.org/rfc/rfc1855.txt).
+Arguably, the best source of guidelines for network etiquette (Netiquette) is [RFC 1855](https://www.ietf.org/rfc/rfc1855.txt), as prepared by Sally Hambridge for the [Internet Engineering Task Force](https://www.ietf.org/) (IETF). It’s a classic.
 
-Significant parts of this FAQ have been lovingly borrowed from the [Mailing List Etiquette FAQ](http://www.gweep.ca/~edmonds/usenet/ml-etiquette.html) by Brian Edmonds.
+Parts of this FAQ have been lovingly adapted from the [Mailing List Etiquette FAQ](http://www.gweep.ca/~edmonds/usenet/ml-etiquette.html) by Brian Edmonds.
 
 ### How should I post or reply to messages from the list?
 
@@ -198,6 +198,10 @@ Once a message is posted to the list, it cannot and will not be removed from any
 
 ## NewtonTalk History
 
+Earliest version of the NewtonTalk website:
+
+http://web.archive.org/web/19981206175529/http://www.newtontalk.com/
+
 ### What happened to Planet Newton running the list?
 
 We executed a coup.
@@ -206,19 +210,31 @@ We executed a coup.
 
 Okay, here’s the history:
 
+Looks like Sean started the list at least as far back as October 1997, as that is the earliest instance of a "sponsor" mentioned on the old site.
+
+http://web.archive.org/web/19981206175529/http://www.newtontalk.com/
+
 Before June 1999, the list was run by one guy, Sean O’Shaughnessy, aka the “list dad.” Things were happy and carefree, and the Newton had just been cancelled, so no one was too worried :)
 
-However, in 1999 Sean could no longer host the list on his own, and so asked for someone to pick it up. A web site called Planet Newton stepped in and agreed to take over the list from Sean.
+(Sean — “I have been storing all of the NewtonTalk messages in a Filemaker database since the list originated.”)
 
-Things were all right for a while, but in 2000 the list stared having problems: outages, duplicate messages, people being randomly unsubscribed, dropped digest subscribers, and the like. Sometimes this issues were fixed, but many people became frustrated at Planet Newton’s attitude towards management of the list. It was if they just didn’t care.
+(Sean — “The searches were performed on digests 1-1299 which approximately covers Aug 1, 1997 to May 7, 1998.”)
 
-Two “emergency” lists were started in case PN went down.
+http://web.archive.org/web/19981205124623/http://www.newtontalk.com/topics.html
 
-During this time, many people asked Planet Newton if they would consider giving up the list, since they were obviously having problems managing it. All request (as far as the author knows) were met with denials.
+However, in 1999 Sean could no longer host the list on his own, and so asked for someone to pick it up. The folks running the Planet Newton website stepped in and agreed to take over the list from Sean.
 
-In May 2001, PlanetNewton.com experienced a total server failure. Their website and the mailing list suddenly disappeared. An effort to replace PN’s list with a community-run server had already been in the works for several months, though. On June 12, 2001, NewtonTalk.net was launched.
+Things were all right for a while, but in 2000 the list stared having problems. Outages, duplicate messages, list members being unsubscribed at random, members being dropped from the digest, and so on. Issues were often rectified, but not always. Many list members became increasingly frustrated at Planet Newton’s attitude towards management of the list. It was as if they just didn’t care.
+
+Sometime in 20??, Two “emergency” lists were started in case Planet Newton went down. (Require list names, locations, and activation dates.)
+
+During this time, many people asked Planet Newton if they would consider giving up the list, since they were obviously having problems managing it. All requests (as far as the author knows) were met with denials.
+
+In May 2001, Planet Newton experienced a complete server failure. Both the website and mailing list suddenly disappeared. Fortunately, there had already been an effort in the works to replace the increasingly unreliable Planet Newton mailing list with a community run server. On June 12th, 2001, the newtontalk.net website and mailing list was launched.
 
 Victor Rehorst and Paul Guyot were co-administrators of the list from the transition to NewtonTalk.net until early 2007. Grant Hutchinson took over list administration duties in March 2007.
+
+Grant also secured the old newtontalk.com domain name in 2002 and the newtontalk.org domain name in 2007. He even managed to regain control of the planetnewton.com domain in 2014.
 
 The list server and web site were graciously hosted by Bill Shamam and the fine worker bees at Continuity.cx.
 
@@ -227,6 +243,12 @@ The spartan, but functional web interface was written by the indubitable Paul Gu
 List dad emeritus is Victor Rehorst.
 
 ## Release Notes
+
+#### 19 January 2016
+
+* Additional editing and clarification of ‘Mailing List Etiquette’
+* Additional editing and clarification of ‘NewtonTalk History’
+* Minor formatting and text tweaks
 
 #### 08 December 2015
 
