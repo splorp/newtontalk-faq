@@ -1,15 +1,16 @@
 ﻿# NewtonTalk FAQ
 
-Frequently asked questions, etiquette, and guidelines for the NewtonTalk mailing list.
+Frequently asked questions on the policies, etiquette, and history of the NewtonTalk mailing list.
 
+Document maintained by [Grant Hutchinson](https://github.com/splorp/)
 Updated: 19 January 2016
 
 ## Table of Contents
 
 * [General Information](#general-information)
 * [Mailing List Etiquette](#mailing-list-etiquette)
-* [Mailing List Conduct & Policies](#mailing-list-conduct--policies)
-* [Mailing List Operations](#mailing-list-operations)
+* [Mailing List Content Guidelines](#mailing-list-content-guidelines)
+* [Mailing List Settings](#mailing-list-settings)
 * [NewtonTalk History](#newtontalk-history)
 * [Release Notes](#release-notes)
 
@@ -73,9 +74,9 @@ Also, you should not post inflammatory (aka flame) mail to the list. It is perfe
 
 If someone posts something with which you are in particular agreement, that’s great. You should not, however, follow up to the list with a post containing no more than “Me too!” or “Right on, brother!” If you have something of substance to add to the discussion, then by all means do so, but if you simply wish to express a simple agreement, then do it in private mail.
 
-Refer to the next section, [Mailing List Conduct & Policies](#mailing-list-conduct--policies), for additional posting guidelines.
+Refer to the next section, [Mailing List Content Guidelines](#mailing-list-content-guidelines), for additional posting guidelines.
 
-## Mailing List Conduct & Policies
+## Mailing List Content Guidelines
 
 #### Commercial Announcements & Items For Sale
 
@@ -154,7 +155,7 @@ Once a message is posted, it cannot be removed from the archive, either on the N
 
 The subject and first 100 lines of the latest 10 posts to the list are also available via an RSS 2.0 [feed](http://www.newtontalk.net/newtontalk.rss) (currently broken). Each entry in the RSS feed contains a link to the full message in the archive.
 
-#### Message formats and attachments
+#### Message Formats & Attachments
 
 The list software automatically strips away attached files and HTML from messages. Everything is plain text for maximum compatibility with all mail software.
 
@@ -162,7 +163,7 @@ The list software automatically strips away attached files and HTML from message
 
 Email addresses which encounter errors for more than 30 days will be removed from the list. (Need to check this against the current list settings.)
 
-## Mailing List Operations
+## Mailing List Settings
 
 #### How often is the digest sent?
 
@@ -188,7 +189,7 @@ Use the handy, dandy web interface:
 
 Send a message from your subscribed address to [ecartis@newtontalk.net](mailto:ecartis@newtontalk.net) with the string “set vacation” (without quotes) in the subject line. You can leave the body of the message blank. To unset, change the word “set” above to “unset”.
 
-#### I tried to post this a file to the list and it didn’t show up. What gives?
+#### Why didn’t the file I posted to the list show up?
 
 The list software automatically strips away attached files and HTML from messages. Everything is plain text for maximum compatibility with all mail software.
 
