@@ -3,6 +3,7 @@
 Frequently asked questions on the policies, etiquette, and history of the NewtonTalk mailing list.
 
 Document maintained by [Grant Hutchinson](https://github.com/splorp/)
+
 Updated: 19 January 2016
 
 ## Table of Contents
@@ -78,20 +79,27 @@ Refer to the next section, [Mailing List Content Guidelines](#mailing-list-conte
 
 ## Mailing List Content Guidelines
 
-#### Commercial Announcements & Items For Sale
+#### Can I post announcements for commercial products or services?
+
+Yes, but with certain restrictions.
 
 Commercial advertising from software, hardware, or service companies must be approved by the list administrators before being posted to the list. For approval, please contact:
 
 [newtontalk-admins@newtontalk.net](mailto:newtontalk-admins@newtontalk.net)
 
+#### Can I post personal items for sale or trade?
+
+Yes.
+
 Personal messages advertising items wanted or for sale are permitted, providing you are selling Newton devices, accessories, software, or related services. Please refrain from advertising Macs, PCs, furniture, livestock, or other non-Newton items.
 
 To provide a clear indication that a message has an advertising or transactional nature, please tag the subject line appropriately using the following prefixes:
 
-* [WTB] — Wanted To Buy (looking to purchase something)
-* [FS] — For Sale (private sale on the list, *not* an auction)
-* [FA] — For Auction (auction on eBay or similar site)
-* [FT] — For Trade (will trade goods for Newton or vice-versa)
+* [FS] — For Sale (Items for private sale on the list, *not* an auction)
+* [FA] — For Auction (Items being sold via an auction on eBay or similar site)
+* [FT] — For Trade (Items available for exchange, trade, or barter)
+* [WTB] — Want To Buy (Items wanted to purchase)
+* [FREE] — Free or postage paid (Items to giveaway to a good home)
 
 When replying to transactional or other advertising messages, do *not* reply to the list. Reply directly to the author of the original message.
 
@@ -165,10 +173,6 @@ Email addresses which encounter errors for more than 30 days will be removed fro
 
 ## Mailing List Settings
 
-#### How often is the digest sent?
-
-The digest is sent whenever its size reaches 50K, or every 12 hours, if the first condition isn’t reached.
-
 #### How do I subscribe to the list?
 
 #### How do I unsubscribe from the list?
@@ -176,6 +180,10 @@ The digest is sent whenever its size reaches 50K, or every 12 hours, if the firs
 #### How do I receive the digest instead of individual messages?
 
 #### How do I receive individual messages instead of the digest?
+
+#### How often is the digest sent?
+
+The digest is sent whenever its size reaches 50K, or every 12 hours, if the first condition isn’t reached.
 
 #### How do I find out what my current status is?
 
@@ -193,13 +201,13 @@ Send a message from your subscribed address to [ecartis@newtontalk.net](mailto:e
 
 The list software automatically strips away attached files and HTML from messages. Everything is plain text for maximum compatibility with all mail software.
 
-#### I don’t want any more spam!
+#### How do I remove a message from the list archive?
 
-#### Remove all of my messages from the archive!
+You can’t.
 
-#### Someone said something nasty about me, remove it from the list!
+#### How do I remove all of my messages from the list archive?
 
-NewtonTalk is an open, public communications medium. All posts to the list are publicly archived in two places:
+NewtonTalk is an open, public venue for communication and discussion. All posts to the list are publicly archived in two places:
 
 On the NewtonTalk website:
 
@@ -209,9 +217,13 @@ On the searchable MARC archive:
 
 [marc.10east.com/?l=newtontalk](http://marc.10east.com/?l=newtontalk)
 
-Once a message is posted to the list, it cannot and will not be removed from any of the archives. For one, this would be altering the public record of what happened on the list, and we wish to preserve this for as long as we can. Also, MARC will only remove messages if ordered to do so by an appropriate court order (threatening emails from lawyers will not get their attention).
+Yes, we understand that every once in a while something nasty gets posted. It’s unfortunately, but it does happen. However, once a message is posted to the list, it cannot and will not be removed from any of the archives. For one, this would be altering the public record of what happened on the list, and we wish to preserve this for as long as we can.
+
+Also, MARC will only remove messages if ordered to do so by an appropriate court order (threatening emails from lawyers will not get their attention).
 
 ## NewtonTalk History
+
+#### When did the NewtonTalk mailing list start?
 
 Earliest version of the NewtonTalk website:
 
@@ -258,6 +270,11 @@ The spartan, but functional web interface was written by the indubitable Paul Gu
 List dad emeritus is Victor Rehorst.
 
 ## Release Notes
+
+#### Next Release
+
+* Rewrote all subsection headers as actual questions, because FAQ
+* Expanded and clarified transactional subject line prefixes
 
 #### 19 January 2016
 
