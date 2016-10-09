@@ -17,15 +17,15 @@ Updated: 19 January 2016
 
 ## General Information
 
-#### What is NewtonTalk?
+### What is NewtonTalk?
 
 NewtonTalk is a mailing list directly supported by the Newton user community and dedicated to the discussion of Apple’s Newton OS-based handheld computers and related topics.
 
-#### Who runs NewtonTalk?
+### Who runs NewtonTalk?
 
 The website and mailing list are currently managed by [Grant Hutchinson](http://splorp.com/). Previous list dads, administrators, and sidekicks are mentioned in the [NewtonTalk History](#newtontalk-history) section.
 
-#### What are some of the technical details?
+### What are some of the technical details?
 
 The NewtonTalk website and mailing list are hosted by the kind folks at [Media Temple](https://mediatemple.net/). The website is built using straight up HTML, CSS, and [BBEdit](http://www.barebones.com/products/bbedit/). To manage the list, we are using a slightly creaky version of [Mailman](http://list.org/) that comes preinstalled with the [Plesk](http://www.plesk.com/) web management suite. It’s not pretty, but it works.
 
@@ -35,13 +35,13 @@ Arguably, the best source of guidelines for network etiquette (Netiquette) is [R
 
 Parts of this FAQ have been lovingly adapted from the [Mailing List Etiquette FAQ](http://www.gweep.ca/~edmonds/usenet/ml-etiquette.html) by Brian Edmonds.
 
-#### How do I post a message to the list?
+### How do I post a message to the list?
 
-#### How do I reply to a message on the list?
+### How do I reply to a message on the list?
 
-#### What is the proper way to post a message to the list?
+### What is the proper way to post a message to the list?
 
-#### What is the proper way to reply to a message?
+### What is the proper way to reply to a message?
 
 In short, courteously, properly, concisely, and to the right address:
 
@@ -57,9 +57,9 @@ For more information see:
 
 [newtontalk.net/archive/newtontalk.2004-03/1905.html](http://www.newtontalk.net/archive/newtontalk.2004-03/1905.html)
 
-#### What things can I post to the list?
+### What things can I post to the list?
 
-#### What things shouldn’t be posted to the list?
+### What things shouldn’t be posted to the list?
 
 * Subscribe requests
 * Unsubscribe requests
@@ -79,7 +79,7 @@ Refer to the next section, [Mailing List Content Guidelines](#mailing-list-conte
 
 ## Mailing List Content Guidelines
 
-#### Can I post announcements for commercial products or services?
+### Can I post announcements for commercial products or services?
 
 Yes, but with certain restrictions.
 
@@ -87,7 +87,7 @@ Commercial advertising from software, hardware, or service companies must be app
 
 [newtontalk-admins@newtontalk.net](mailto:newtontalk-admins@newtontalk.net)
 
-#### Can I post personal items for sale or trade?
+### Can I post personal items for sale or trade?
 
 Yes.
 
@@ -103,13 +103,13 @@ To provide a clear indication that a message has an advertising or transactional
 
 When replying to transactional or other advertising messages, do *not* reply to the list. Reply directly to the author of the original message.
 
-#### Virus Warnings
+### Virus Warnings
 
 Do *not* post virus warnings to the list. This is simply not appropriate mailing list behaviour. Historically, most virus warnings are hoaxes. The best resource for information regarding internet hoaxes, urban legends, and the like is [Snopes](http://www.snopes.com/).
 
 Finally, even if it’s a real virus warning, do *not* post it the list.
 
-#### Antispam Software
+### Antispam Software
 
 If you use challenge and response antispam software, you must have the ability to whitelist either:
 
@@ -129,7 +129,7 @@ If you receive an automated reply from a mail interception service in response t
 
 The list administrators will attempt remedy the situation.
 
-#### Off-topic Posts
+### Off-topic Posts
 
 Off-topic posts and threads are generally tolerated if they were spawned from an on-topic thread. This is a different policy from many other mailing lists which have established separate lists for off-topic subjects, but here at NewtonTalk we maintain a more casual atmosphere.
 
@@ -137,7 +137,7 @@ However, threads which stray into heated topics such as politics, personal belie
 
 Please tag any off-topic posts with an [OT] prefix in the subject line. This makes it easier for other list members who may not want to read these post to filter them out.
 
-#### Polls & Surveys
+### Polls & Surveys
 
 Please do not post polls or survey questions to the list. If you have an idea for an interesting topic involving a poll or survey, please contact:
 
@@ -145,11 +145,11 @@ Please do not post polls or survey questions to the list. If you have an idea fo
 
 There are many services available that provide the means to easily create free online polls and surveys, such as [SurveyMonkey](https://www.surveymonkey.com/), [Google Forms](https://docs.google.com/forms/), and [Typeform](http://www.typeform.com/).
 
-#### Quoting Limits
+### Quoting Limits
 
 The list software enforces rules for the maximum number of lines in any list message that it quoted from another message. If a message is over 50 lines total length, then the message must not be more than 70% quoted lines. If a message breaks this rule it will *not* be posted to the list; instead, the sender will receive a notification and be asked to revise and re-send their message.
 
-#### Message Archiving
+### Message Archiving
 
 Messages posted to NewtonTalk are automatically included in two list archives:
 
@@ -159,53 +159,53 @@ Messages posted to NewtonTalk are automatically included in two list archives:
 
 Once a message is posted, it cannot be removed from the archive, either on the NewtonTalk site or MARC. NewtonTalk informally follows MARC’s [privacy policy](http://marc.10east.com/?q=about#Privacy).
 
-#### RSS Feed
+### RSS Feed
 
 The subject and first 100 lines of the latest 10 posts to the list are also available via an RSS 2.0 [feed](http://www.newtontalk.net/newtontalk.rss) (currently broken). Each entry in the RSS feed contains a link to the full message in the archive.
 
-#### Message Formats & Attachments
+### Message Formats & Attachments
 
 The list software automatically strips away attached files and HTML from messages. Everything is plain text for maximum compatibility with all mail software.
 
-#### Other
+### Other
 
 Email addresses which encounter errors for more than 30 days will be removed from the list. (Need to check this against the current list settings.)
 
 ## Mailing List Settings
 
-#### How do I subscribe to the list?
+### How do I subscribe to the list?
 
-#### How do I unsubscribe from the list?
+### How do I unsubscribe from the list?
 
-#### How do I receive the digest instead of individual messages?
+### How do I receive the digest instead of individual messages?
 
-#### How do I receive individual messages instead of the digest?
+### How do I receive individual messages instead of the digest?
 
-#### How often is the digest sent?
+### How often is the digest sent?
 
 The digest is sent whenever its size reaches 50K, or every 12 hours, if the first condition isn’t reached.
 
-#### How do I find out what my current status is?
+### How do I find out what my current status is?
 
 Use the handy, dandy web interface:
 
 [newtontalk.net](http://www.newtontalk.net/)
 
-#### How do I set vacation mode?
+### How do I set vacation mode?
 
-#### How do I get out of vacation mode?
+### How do I get out of vacation mode?
 
 Send a message from your subscribed address to [ecartis@newtontalk.net](mailto:ecartis@newtontalk.net) with the string “set vacation” (without quotes) in the subject line. You can leave the body of the message blank. To unset, change the word “set” above to “unset”.
 
-#### Why didn’t the file I posted to the list show up?
+### Why didn’t the file I posted to the list show up?
 
 The list software automatically strips away attached files and HTML from messages. Everything is plain text for maximum compatibility with all mail software.
 
-#### How do I remove a message from the list archive?
+### How do I remove a message from the list archive?
 
 You can’t.
 
-#### How do I remove all of my messages from the list archive?
+### How do I remove all of my messages from the list archive?
 
 NewtonTalk is an open, public venue for communication and discussion. All posts to the list are publicly archived in two places:
 
@@ -223,17 +223,17 @@ Also, MARC will only remove messages if ordered to do so by an appropriate court
 
 ## NewtonTalk History
 
-#### When did the NewtonTalk mailing list start?
+### When did the NewtonTalk mailing list start?
 
 Earliest version of the NewtonTalk website:
 
 http://web.archive.org/web/19981206175529/http://www.newtontalk.com/
 
-#### What happened to Planet Newton running the list?
+### What happened to Planet Newton running the list?
 
 We executed a coup.
 
-#### What the heck does that mean?
+### What the heck does that mean?
 
 Okay, here’s the history:
 
@@ -271,41 +271,41 @@ List dad emeritus is Victor Rehorst.
 
 ## Release Notes
 
-#### Next Release
+### Next Release
 
 * Rewrote all subsection headers as actual questions, because FAQ
 * Expanded and clarified transactional subject line prefixes
 
-#### 19 January 2016
+### 19 January 2016
 
 * Additional editing and clarification of ‘Mailing List Etiquette’
 * Additional editing and clarification of ‘NewtonTalk History’
 * Minor formatting and text tweaks
 
-#### 08 December 2015
+### 08 December 2015
 
 * Migrated document to GitHub
 * Converted document formatting to Markdown
 * Consolidated legacy versions prior to further updates
 * Minor formatting and text tweaks
 
-#### 13 February 2011
+### 13 February 2011
 
 * Added introductory statement
 * Updated mail server name in ‘Anti-spam Software’
 * Added third party poll services to ‘Polls & Surveys’
 * Minor formatting changes and other edits
 
-#### 06 August 2008
+### 06 August 2008
 
 * Rewrote ‘New Thread’ section of ‘Mailing List Etiquette’
 
-#### 31 October 2007
+### 31 October 2007
 
 * Began converting document formatting to Textile
 * Split out individual questions for subsections of ‘Mailing List Operations’
 
-#### 30 October 2007
+### 30 October 2007
 
 * Added ‘Release Notes’ section
 * Updated and clarified section headers
@@ -314,6 +314,6 @@ List dad emeritus is Victor Rehorst.
 * Standardized the formatting of all URLs and email addresses
 * Tweaked some text here and there, correcting a few typos along the way
 
-#### 05 June 2006
+### 05 June 2006
 
 * Document passed from Victor Rehorst to Grant Hutchinson
