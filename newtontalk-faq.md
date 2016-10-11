@@ -4,7 +4,7 @@ Frequently asked questions on the policies, etiquette, and history of the Newton
 
 Document maintained by [Grant Hutchinson](https://github.com/splorp/)
 
-Updated: 09 October 2016
+Updated: 11 October 2016
 
 ## Table of Contents
 
@@ -288,6 +288,10 @@ List dad emeritus is Victor Rehorst.
 
 * Rewrote subsection headers as actual questions, because FAQ
 * Expanded and clarified transactional subject line prefixes
+* Expanded list of acceptable posts
+* Simplified ‘What is NewtonTalk?’
+* Clarified some of the ‘Technical Details’
+* Added the NewtonTalk2 list to ‘NewtonTalk History’
 
 ##### 19 January 2016
 
