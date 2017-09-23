@@ -167,9 +167,9 @@ Messages posted to NewtonTalk are automatically included in two list archives:
 
 [newtontalk.net/archive/](http://www.newtontalk.net/archive/)
 
-[marc.10east.com/?l=newtontalk](http://marc.10east.com/?l=newtontalk)
+[marc.info/?l=newtontalk](https://marc.info/?l=newtontalk)
 
-Once a message is posted, it cannot be removed from the archive, either on the NewtonTalk site or MARC. NewtonTalk informally follows MARC’s [privacy policy](http://marc.10east.com/?q=about#Privacy).
+Once a message is posted, it cannot be removed from the archive, either on the NewtonTalk site or MARC. NewtonTalk informally follows MARC’s [privacy policy](https://marc.info/?q=about#Privacy).
 
 ### RSS Feed
 
@@ -227,11 +227,11 @@ On the NewtonTalk website:
 
 On the searchable MARC archive:
 
-[marc.10east.com/?l=newtontalk](http://marc.10east.com/?l=newtontalk)
+[marc.info/?l=newtontalk](https://marc.info/?l=newtontalk)
 
 Yes, we understand that every once in a while something nasty gets posted. It’s unfortunately, but it does happen. However, once a message is posted to the list, it cannot and will not be removed from any of the archives. For one, this would be altering the public record of what happened on the list, and we wish to preserve this for as long as we can.
 
-Also, MARC will only remove messages if ordered to do so by an appropriate court order (threatening emails from lawyers will not get their attention).
+Also, [MARC](https://marc.info/) will only remove messages if ordered to do so by an appropriate court order (threatening emails from lawyers will not get their attention).
 
 ## NewtonTalk History
 
@@ -297,6 +297,7 @@ List dad emeritus is Victor Rehorst.
 * Simplified ‘What is NewtonTalk?’
 * Clarified some of the ‘Technical Details’
 * Added the NewtonTalk2 list to ‘NewtonTalk History’
+* Updated dead links
 
 #### 19 January 2016
 
