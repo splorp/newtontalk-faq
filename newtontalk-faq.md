@@ -161,6 +161,14 @@ There are many services available that provide the means to easily create free o
 
 The list software enforces rules for the maximum number of lines in any list message that it quoted from another message. If a message is over 50 lines total length, then the message must not be more than 70% quoted lines. If a message breaks this rule it will *not* be posted to the list; instead, the sender will receive a notification and be asked to revise and re-send their message.
 
+### Message Formats
+
+The list software automatically strips away HTML and rich text formatting from messages. All messages are delivered as plain text to maintain compatibility with even the most basic email clients.
+
+### File Attachments
+
+The mailing list software automatically strips attached files from messages. All messages are delivered as plain text to maintain compatibility with even the most basic email clients.
+
 ### Message Archiving
 
 Messages posted to NewtonTalk are automatically included in two list archives:
@@ -169,19 +177,15 @@ Messages posted to NewtonTalk are automatically included in two list archives:
 
 [marc.info/?l=newtontalk](https://marc.info/?l=newtontalk)
 
-Once a message is posted, it cannot be removed from the archive, either on the NewtonTalk site or MARC. NewtonTalk informally follows MARC’s [privacy policy](https://marc.info/?q=about#Privacy).
+Once a message is posted, it cannot be removed from the archive, either on the NewtonTalk site or [MARC](https://marc.info/). NewtonTalk informally follows the MARC [privacy policy](https://marc.info/?q=about#Privacy).
 
-### RSS Feed
+### RSS Feed (Currently Broken)
 
 The subject and first 100 lines of the latest 10 posts to the list are also available via an RSS 2.0 [feed](http://www.newtontalk.net/newtontalk.rss) (currently broken). Each entry in the RSS feed contains a link to the full message in the archive.
 
-### Message Formats & Attachments
+### Undeliverable Messages
 
-The list software automatically strips away attached files and HTML from messages. Everything is plain text for maximum compatibility with all mail software.
-
-### Other
-
-Email addresses which encounter errors for more than 30 days will be removed from the list. (Need to check this against the current list settings.)
+Email addresses which generate delivery errors for more than 30 days (Need to check this against the current list settings) will be removed from the list. Undeliverable messages may be due to problems such as mail server issues, network downtime, or a full mailbox.
 
 ## Mailing List Settings
 
@@ -229,15 +233,13 @@ On the searchable MARC archive:
 
 [marc.info/?l=newtontalk](https://marc.info/?l=newtontalk)
 
-Yes, we understand that every once in a while something nasty gets posted. It’s unfortunately, but it does happen. However, once a message is posted to the list, it cannot and will not be removed from any of the archives. For one, this would be altering the public record of what happened on the list, and we wish to preserve this for as long as we can.
-
-Also, [MARC](https://marc.info/) will only remove messages if ordered to do so by an appropriate court order (threatening emails from lawyers will not get their attention).
+Yes, we understand that every once in a while something nasty gets posted. It’s an unfortunate occurrence, but it does happen. However, once a message is posted to the list, it cannot be removed from the archives. This would be altering the public record of what happened on the list. We wish to preserve this record for as long as we can. [MARC](https://marc.info/) will only remove messages under very specific circumstances or if ordered to do so by an appropriate court order.
 
 ## NewtonTalk History
 
 ### When did the NewtonTalk mailing list start?
 
-Looks like Sean started the list at least as far back as October 1997, as that is the earliest instance of a "sponsor" mentioned on the old site.
+Looks like Sean started the list at least as far back as October 1997, as that is the earliest instance of a “sponsor” mentioned on the old site.
 
 http://web.archive.org/web/19981206175529/http://www.newtontalk.com/
 
