@@ -4,7 +4,7 @@ Frequently asked questions on the policies, etiquette, and history of the Newton
 
 Document maintained by [Grant Hutchinson](https://github.com/splorp/)
 
-Updated: 27 January 2017
+Updated: 23 September 2017
 
 ## Table of Contents
 
@@ -121,7 +121,7 @@ Do *not* post virus warnings to the list. This is simply not appropriate mailing
 
 Finally, even if it’s a real virus warning, do *not* post it the list.
 
-### Antispam Software
+### Antispam Software & Services
 
 If you use challenge and response antispam software, you must have the ability to whitelist either:
 
@@ -239,11 +239,9 @@ Yes, we understand that every once in a while something nasty gets posted. It’
 
 ### When did the NewtonTalk mailing list start?
 
-Looks like Sean started the list at least as far back as October 1997, as that is the earliest instance of a “sponsor” mentioned on the old site.
+Prior to June 1999, the list was run Sean O’Shaughnessy. Details from this period are a bit sketchy, but from what we’ve been able to determine, Sean started the list in August 1997. A “list sponsor” was mentioned on archived pages of the NewtonTalk site from October 1997.
 
 http://web.archive.org/web/19981206175529/http://www.newtontalk.com/
-
-Before June 1999, the list was run by one guy, Sean O’Shaughnessy, aka the “list dad.” Things were happy and carefree, and the Newton had just been cancelled, so no one was too worried :)
 
 (Sean — “I have been storing all of the NewtonTalk messages in a Filemaker database since the list originated.”)
 
@@ -299,9 +297,10 @@ List dad emeritus is Victor Rehorst.
 * Simplified ‘What is NewtonTalk?’
 * Clarified some of the ‘Technical Details’
 * Added the NewtonTalk2 list to ‘NewtonTalk History’
-* Updated dead links
+* Added details about Sean O’Shaughnessy to ‘NewtonTalk History’
+* Updated dead links to the MARC site
 
-#### 19 January 2016
+### 19 January 2016
 
 * Additional editing and clarification of ‘Mailing List Etiquette’
 * Additional editing and clarification of ‘NewtonTalk History’
