@@ -23,11 +23,11 @@ NewtonTalk is a mailing list supported by the Newton user community and dedicate
 
 ### Who runs NewtonTalk?
 
-The website and mailing list are currently managed by [Grant Hutchinson](http://splorp.com/). Previous list dads, administrators, and sidekicks are mentioned in the [NewtonTalk History](#newtontalk-history) section.
+The website and mailing list are currently managed by [Grant Hutchinson](http://splorp.com/). Previous list dads, administrators, and technical sidekicks are mentioned in the [NewtonTalk History](#newtontalk-history) section.
 
-### What are some of the technical details?
+### What makes NewtonTalk tick?
 
-The NewtonTalk website and mailing list are hosted by the kind folks at [Media Temple](https://mediatemple.net/). The website is built using plain old HTML and CSS, with a smattering of custom PHP just for kicks. Our development tool of choice is [BBEdit](http://www.barebones.com/products/bbedit/). To manage the mailing list, we are using a slightly creaky version of [Mailman](http://list.org/) that comes preinstalled with the [Plesk](http://www.plesk.com/) web management suite. It’s not pretty, but it works.
+The website and mailing list are hosted by the kind folks at [Media Temple](https://mediatemple.net/). The website is built using plain old HTML and CSS, with a smattering of custom PHP just for kicks. Our development tool of choice is [BBEdit](http://www.barebones.com/products/bbedit/). To manage the mailing list, we are using a slightly creaky version of [Mailman](http://list.org/) that comes preinstalled with the [Plesk](http://www.plesk.com/) web management suite. It’s not pretty, but it works.
 
 ## Mailing List Etiquette
 
@@ -67,18 +67,18 @@ For more information see:
 
 * Requests for technical support
 * Requests for hardware and software
-* Technical questions and answers
+* Questions and answers
 * Tips and tricks
-* Discussion topics relating to the Newton
-* Announcements relating to the Newton (including software releases, website updates, etc.)
+* Other discussion topics relating to the Newton
+* Newton-related announcements (software releases, website updates, etc.)
+* Off-topic messages (providing they are flagged as such in the subject line)
 
 ### What things shouldn’t be posted to the list?
 
-* Subscribe requests
-* Unsubscribe requests
-* Vacation mode requests
-* Digest mode requests
-* Virus warnings, internet hoaxes, urban legends, memes
+* List membership requests (subscribing, unsubscribing, switching to digest mode, setting vacation mode, etc.
+* Virus warnings, internet hoaxes, urban legends, memes, etc.
+* Vulgar, insulting, defamatory, hostile, or abusive language
+* Advertising (outside of Newton-related product announcements as mentioned above)
 * Spam
 
 The basic rule is that as long as your post has some content related to the primary subject of the list, and does not contain much off-topic material, then it is fine for the list. Specifically, for almost every list, this will immediately rule out many or all commercial ads, postings on how to make money (such as MAKE MONEY FAST), sociology surveys, help with homework, hot international news, and requests for people to send birthday greetings to your friend.
@@ -237,9 +237,9 @@ Yes, we understand that every once in a while something nasty gets posted. It’
 
 ## NewtonTalk History
 
-### When did the NewtonTalk mailing list start?
+### When did NewtonTalk start?
 
-Prior to June 1999, the list was run Sean O’Shaughnessy. Details from this period are a bit sketchy, but from what we’ve been able to determine, Sean started the list in August 1997. A “list sponsor” was mentioned on archived pages of the NewtonTalk site from October 1997.
+Prior to June 1999, the list was run Sean O’Shaughnessy. Details from this period are a bit sketchy, but from what we’ve been able to determine, Sean started the list in August 1997. How do we know this? A “list sponsor” was mentioned on the archived pages of the NewtonTalk site dated October 1997.
 
 http://web.archive.org/web/19981206175529/http://www.newtontalk.com/
 
@@ -255,19 +255,19 @@ http://web.archive.org/web/19981206175529/http://www.newtontalk.com/
 
 ### What happened to Planet Newton running the list?
 
-We executed a coup.
+They screwed up. We executed a coup.
 
 ### What the heck does that mean?
 
 Okay, here’s what went down.
 
-In 1999, Sean could no longer host the list on his own. He asked if someone could take over the administration duties. The folks running the Planet Newton website stepped in and agreed to take over the list from Sean.
+In the summer of 1999, Sean could no longer host the list on his own and he asked list members if someone would be willing to take over the administration duties. The folks running the Planet Newton website stepped in and agreed to take over the list from Sean.
 
-Things were all right for a while, but in 2000 the list stared having problems. Outages, duplicate messages, list members being unsubscribed at random, members being dropped from the digest, and so on. Issues were often rectified, but not always. Many list members became increasingly frustrated at Planet Newton’s attitude towards management of the list. It was as if they just didn’t care.
+Things were all tickety-boo for a while, but in 2000 the list stared having problems. There were duplicate messages being sent out, list members unsubscribed at random or dropped from receiving the digest, complete list outages, and so on. The issues were often corrected within a couple of days, but not always. List members became increasingly frustrated at Planet Newton’s attitude towards management of the list. It was as if they just didn’t care.
 
-Sometime in 2000, two “emergency” lists were started in case Planet Newton went down.
+During this period of unrest and dissatisfaction, two “emergency” lists were created. Just in case Planet Newton went down permanently.
 
-NewtonTalk 2 was founded by Rich Lindsay on May 13, 2000
+The NewtonTalk 2 was founded by Rich Lindsay on May 13, 2000.
 
 http://web.archive.org/web/20050312153858/http://groups.yahoo.com/group/newtontalk2/
 
@@ -277,28 +277,33 @@ During this time, many people asked Planet Newton if they would consider giving 
 
 In May 2001, Planet Newton experienced a complete server failure. Both the website and mailing list suddenly disappeared. Fortunately, there had already been an effort in the works to replace the increasingly unreliable Planet Newton mailing list with a community run server. On June 12th, 2001, the newtontalk.net website and mailing list was launched.
 
-Victor Rehorst and Paul Guyot were co-administrators of the list from the transition to NewtonTalk.net until early 2007. Grant Hutchinson took over list administration duties in March 2007.
+### Who was responsible for this?
+
+Victor Rehorst and Paul Guyot were the co-administrators of the list after the transition from Planet Newton.
+
+Grant Hutchinson took over list and website administration duties in March 2007.
 
 Grant also secured the old newtontalk.com domain name in 2002 and the newtontalk.org domain name in 2007. He even managed to regain control of the planetnewton.com domain in 2014.
 
 From 2001 and 2007, the list server and website were graciously hosted by Bill Shamam.
 
-The spartan, but functional web interface was written by the indubitable Paul Guyot.
+The original mailing list web interface was written by the indubitable Paul Guyot.
 
-List dad emeritus is Victor Rehorst.
+The list dad emeritus is Victor Rehorst.
 
 ## Release Notes
 
-### Next Release
+### 08 February 2018
 
 * Rewrote subsection headers as actual questions, because FAQ
 * Expanded and clarified transactional subject line prefixes
-* Expanded list of acceptable posts
+* Clarified lists of acceptable and unacceptable posts
 * Simplified ‘What is NewtonTalk?’
 * Clarified some of the ‘Technical Details’
 * Added the NewtonTalk2 list to ‘NewtonTalk History’
 * Added details about Sean O’Shaughnessy to ‘NewtonTalk History’
 * Updated dead links to the MARC site
+* Numerous other edits, tweaks, and historical clarifications
 
 ### 19 January 2016
 
