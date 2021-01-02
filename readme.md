@@ -23,4 +23,4 @@ Frequently asked questions, etiquette, and guidelines for the [NewtonTalk](http:
 
 [@newtontalk](http://twitter.com/newtontalk)
 
-Copyright © 1999–2017 [NewtonTalk](http://newtontalk.net/), et al.
+Copyright © 1999–2021 [NewtonTalk](http://newtontalk.net/), et al.
