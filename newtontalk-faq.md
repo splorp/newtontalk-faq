@@ -4,7 +4,7 @@ Frequently asked questions on the policies, etiquette, and history of the Newton
 
 Document maintained by [Grant Hutchinson](https://github.com/splorp/)
 
-Updated: 08 February 2018
+Updated: 04 February 2021
 
 ## Table of Contents
 
@@ -75,17 +75,17 @@ For more information see:
 
 ### What things shouldn’t be posted to the list?
 
-* List membership requests (subscribing, unsubscribing, switching to digest mode, setting vacation mode, etc.
+* List membership requests (subscribing, unsubscribing, switching to digest mode, setting vacation mode, etc.)
 * Virus warnings, internet hoaxes, urban legends, memes, etc.
 * Vulgar, insulting, defamatory, hostile, or abusive language
-* Advertising (outside of Newton-related product announcements as mentioned above)
+* Advertising (aside from Newton-related product announcements as mentioned above)
 * Spam
 
-The basic rule is that as long as your post has some content related to the primary subject of the list, and does not contain much off-topic material, then it is fine for the list. Specifically, for almost every list, this will immediately rule out many or all commercial ads, postings on how to make money (such as MAKE MONEY FAST), sociology surveys, help with homework, hot international news, and requests for people to send birthday greetings to your friend.
+The primary rule to follow is that posts should contain content related to the primary subject of the list and not contain a significant amount of off-topic material.
 
-Also, you should not post inflammatory (aka flame) mail to the list. It is perfectly fine to disagree with people publicly, but be careful how you do it. For example, if you think someone is lying on a subject, it may be fine to say “Betty’s claims about Wilma’s hair stylist are a lie,” but it is over the line to say “Betty is a liar”.
+Do not post inflammatory messages (also known as “flaming”) to the list. While it is perfectly acceptable to disagree with publicly, you must be sensitive while doing it. For example, if you feel someone is not being honest or perpetuating a false claim, you should point out the discrepancy without bluntly calling the source a liar. If necessary, contact that person via private email.
 
-If someone posts something with which you are in particular agreement, that’s great. You should not, however, follow up to the list with a post containing no more than “Me too!” or “Right on, brother!” If you have something of substance to add to the discussion, then by all means do so, but if you simply wish to express a simple agreement, then do it in private mail.
+If someone posts something that you agree with, that’s great. However, do not post a simple “me too” message. It’s important to add value and depth to the discussion, otherwise you’re just adding unnecessary noise to the list. Again, it may be more appropriate to contact that person via private email.
 
 Refer to the next section, [Mailing List Content Guidelines](#mailing-list-content-guidelines), for additional posting guidelines.
 
@@ -179,7 +179,9 @@ Messages posted to NewtonTalk are automatically included in two list archives:
 
 Once a message is posted, it cannot be removed from the archive, either on the NewtonTalk site or [MARC](https://marc.info/). NewtonTalk informally follows the MARC [privacy policy](https://marc.info/?q=about#Privacy).
 
-### RSS Feed (Currently Broken)
+### RSS Feed
+
+The RSS feed is currently offline.
 
 The subject and first 100 lines of the latest 10 posts to the list are also available via an RSS 2.0 [feed](http://www.newtontalk.net/newtontalk.rss) (currently broken). Each entry in the RSS feed contains a link to the full message in the archive.
 
@@ -239,19 +241,11 @@ Yes, we understand that every once in a while something nasty gets posted. It’
 
 ### When did NewtonTalk start?
 
-Prior to June 1999, the list was run Sean O’Shaughnessy. Details from this period are a bit sketchy, but from what we’ve been able to determine, Sean started the list in August 1997. How do we know this? A “list sponsor” was mentioned on the archived pages of the NewtonTalk site dated October 1997.
+Prior to June 1999, the list was run Sean O’Shaughnessy. Details from this period are a bit sketchy, but from what we’ve been able to determine, Sean started the list in August 1997.
 
-http://web.archive.org/web/19981206175529/http://www.newtontalk.com/
+How do we know this?
 
-(Sean — “I have been storing all of the NewtonTalk messages in a Filemaker database since the list originated.”)
-
-(Sean — “The searches were performed on digests 1-1299 which approximately covers Aug 1, 1997 to May 7, 1998.”)
-
-http://web.archive.org/web/19981205124623/http://www.newtontalk.com/topics.html
-
-Earliest version of the NewtonTalk website:
-
-http://web.archive.org/web/19981206175529/http://www.newtontalk.com/
+Well, there’s a couple of clues. First of all, a “list sponsor” was mentioned on <a href="http://web.archive.org/web/19981206175529/http://www.newtontalk.com/">the earliest archived version</a> of the NewtonTalk site dated October 1997. Secondly, <a href="http://web.archive.org/web/19981205124623/http://www.newtontalk.com/topics.html">another archived page</a> of “Frequent Topics” contains the following statements from Sean … “I have been storing all of the NewtonTalk messages in a FileMaker database since the list originated.” and “The searches were performed on digests 1-1299 which approximately covers Aug 1, 1997 to May 7, 1998.”
 
 ### What happened to Planet Newton running the list?
 
@@ -267,15 +261,15 @@ Things were all tickety-boo for a while, but in 2000 the list stared having prob
 
 During this period of unrest and dissatisfaction, two “emergency” lists were created. Just in case Planet Newton went down permanently.
 
-The NewtonTalk 2 was founded by Rich Lindsay on May 13, 2000.
+The <a href="http://web.archive.org/web/20050312153858/http://groups.yahoo.com/group/newtontalk2/">NewtonTalk2</a> was founded by Rich Lindsay on May 13, 2000.
 
-http://web.archive.org/web/20050312153858/http://groups.yahoo.com/group/newtontalk2/
-
-(Require list names, locations, and activation dates.)
+(This section requires clarification of mailing list names, locations, and activation dates.)
 
 During this time, many people asked Planet Newton if they would consider giving up the list, since they were obviously having problems managing it. All requests (as far as the author knows) were met with denials.
 
-In May 2001, Planet Newton experienced a complete server failure. Both the website and mailing list suddenly disappeared. Fortunately, there had already been an effort in the works to replace the increasingly unreliable Planet Newton mailing list with a community run server. On June 12th, 2001, the newtontalk.net website and mailing list was launched.
+In May 2001, Planet Newton experienced a complete server failure. Both the website and mailing list suddenly disappeared. Fortunately, there had already been an effort in the works to replace the increasingly unreliable Planet Newton mailing list with a community run server.
+
+On June 12th, 2001, the <a href="http://www.newtontalk.net/">NewtonTalk.net</a> website and mailing list was launched.
 
 ### Who was responsible for this?
 
@@ -292,6 +286,13 @@ The original mailing list web interface was written by the indubitable Paul Guyo
 The list dad emeritus is Victor Rehorst.
 
 ## Release Notes
+
+### 04 February 2021
+
+* Rewrote portions of the ‘What things shouldn’t be posted to the list?’ section for clarity
+* Tidied up the ‘When did NewtonTalk start?’ section
+* Integrated a few loose links
+* Minor edits
 
 ### 08 February 2018
 
