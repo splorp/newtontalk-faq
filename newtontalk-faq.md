@@ -61,7 +61,7 @@ When creating a new topic, please start with a new message in your email client 
 
 For more information see:
 
-[newtontalk.net/archive/newtontalk.2004-03/1905.html](http://www.newtontalk.net/archive/newtontalk.2004-03/1905.html)
+[Starting a new thread?](http://www.newtontalk.net/archive/newtontalk/2004-March/1905.html)
 
 ### What things can I post to the list?
 
@@ -245,7 +245,7 @@ Prior to June 1999, the list was run Sean O’Shaughnessy. Details from this per
 
 How do we know this?
 
-Well, there’s a couple of clues. First of all, a “list sponsor” was mentioned on <a href="http://web.archive.org/web/19981206175529/http://www.newtontalk.com/">the earliest archived version</a> of the NewtonTalk site dated October 1997. Secondly, <a href="http://web.archive.org/web/19981205124623/http://www.newtontalk.com/topics.html">another archived page</a> of “Frequent Topics” contains the following statements from Sean … “I have been storing all of the NewtonTalk messages in a FileMaker database since the list originated.” and “The searches were performed on digests 1-1299 which approximately covers Aug 1, 1997 to May 7, 1998.”
+Well, there’s a couple of clues. First of all, a “list sponsor” was mentioned on [the earliest archived version](http://web.archive.org/web/19981206175529/http://www.newtontalk.com/) of the NewtonTalk site dated October 1997. Secondly, [another archived page](http://web.archive.org/web/19981205124623/http://www.newtontalk.com/topics.html) of “Frequent Topics” contains the following statements from Sean … “I have been storing all of the NewtonTalk messages in a FileMaker database since the list originated.” and “The searches were performed on digests 1-1299 which approximately covers Aug 1, 1997 to May 7, 1998.”
 
 ### What happened to Planet Newton running the list?
 
