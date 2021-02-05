@@ -257,11 +257,13 @@ Okay, here’s what went down.
 
 In the summer of 1999, Sean could no longer host the list on his own and he asked list members if someone would be willing to take over the administration duties. The folks running the Planet Newton website stepped in and agreed to take over the list from Sean.
 
+Hosting was through Ideacast at one point. (As of January 2001)
+
 Things were all tickety-boo for a while, but in 2000 the list stared having problems. There were duplicate messages being sent out, list members unsubscribed at random or dropped from receiving the digest, complete list outages, and so on. The issues were often corrected within a couple of days, but not always. List members became increasingly frustrated at Planet Newton’s attitude towards management of the list. It was as if they just didn’t care.
 
 During this period of unrest and dissatisfaction, two “emergency” lists were created. Just in case Planet Newton went down permanently.
 
-The <a href="http://web.archive.org/web/20050312153858/http://groups.yahoo.com/group/newtontalk2/">NewtonTalk2</a> was founded by Rich Lindsay on May 13, 2000.
+The [NewtonTalk2](http://web.archive.org/web/20050312153858/http://groups.yahoo.com/group/newtontalk2/) list was created by Rich “This Old Newt” Lindsay on May 13th, 2000.
 
 (This section requires clarification of mailing list names, locations, and activation dates.)
 
@@ -269,21 +271,23 @@ During this time, many people asked Planet Newton if they would consider giving 
 
 In May 2001, Planet Newton experienced a complete server failure. Both the website and mailing list suddenly disappeared. Fortunately, there had already been an effort in the works to replace the increasingly unreliable Planet Newton mailing list with a community run server.
 
-On June 12th, 2001, the <a href="http://www.newtontalk.net/">NewtonTalk.net</a> website and mailing list was launched.
+On June 12th, 2001, the [NewtonTalk.net](http://www.newtontalk.net/) website and mailing list was launched.
 
-### Who was responsible for this?
+The current list administrator, Grant Hutchinson, secured the old newtontalk.com domain name in 2002 and the newtontalk.org domain name in 2007.
 
-Victor Rehorst and Paul Guyot were the co-administrators of the list after the transition from Planet Newton.
+He even managed to regain control of the planetnewton.com domain in 2014.
 
-Grant Hutchinson took over list and website administration duties in March 2007.
+### Who is responsible for this?
 
-Grant also secured the old newtontalk.com domain name in 2002 and the newtontalk.org domain name in 2007. He even managed to regain control of the planetnewton.com domain in 2014.
+[Grant Hutchinson](https://splorp.com/) has been administering the mailing list and website since March 2007.
 
-From 2001 and 2007, the list server and website were graciously hosted by Bill Shamam.
+In May 2008, Grant started the [@newtontalk](https://twitter.com/newtontalk) Twitter account and has maintained its editorial (and occasionally snarky) voice ever since.
 
-The original mailing list web interface was written by the indubitable Paul Guyot.
+The indubitable [Morgan Aldridge](http://www.makkintosshu.com/) steps in as back up admin when needed.
 
-The list dad emeritus is Victor Rehorst.
+[Victor Rehorst](http://www.chuma.org/) and [Paul Guyot](http://www.kallisys.com/) were co-administrators of the list after the transition from Planet Newton in 2001. Paul also programmed the original mailing list web interface. Both provided invaluable help and support after handing over the digital reins. Victor is still considered the list dad emeritus.
+
+From 2001 and 2007, the online hosting was graciously provided by [Bill Shamam](https://shamam.com/).
 
 ## Release Notes
 
@@ -292,6 +296,13 @@ The list dad emeritus is Victor Rehorst.
 * Rewrote portions of the ‘What things shouldn’t be posted to the list?’ section for clarity
 * Tidied up the ‘When did NewtonTalk start?’ section
 * Integrated a few loose links
+* Minor edits
+
+### 05 January 2021
+
+* Rewrote portions of the ‘Who is responsible for this?’ section
+* Added Ideacast to the Planet Newton background
+* Linked a bunch of names to relevant sites
 * Minor edits
 
 ### 08 February 2018
