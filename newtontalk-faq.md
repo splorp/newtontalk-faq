@@ -4,7 +4,7 @@ Frequently asked questions on the policies, etiquette, and history of the Newton
 
 Document maintained by [Grant Hutchinson](https://github.com/splorp/)
 
-Updated: 04 February 2021
+Updated: 05 February 2021
 
 ## Table of Contents
 
@@ -55,7 +55,7 @@ Courteously, concisely, and with a descriptive subject line.
 
 When replying to messages you receive from the list, you should acquaint yourself with the reply options of your mail reader. Most mail programs will have at least two reply modes: private and group. A private reply will go only to the person who sent the original message. A group reply by default should go to the original author, the list, and to any people who received private copies of the original message. You should be able to edit this list of addresses to reduce it to just the list address, plus any other people you think should receive private copies.
 
-When quoting, be very careful to edit the quoted sections down to the bare minimum of text needed to maintain the context for your reply. There is very little on a mailing list that is more annoying than paging through a few pages of quoted text only to read a few lines at the end. Also be careful that you clearly indicate what text you’re quoting (as opposed to what you’re writing), and if possible, cite the author of the original text. If your mail program wants to attach the whole message you’re replying to on the end of your replies, please do not let it do this if you can possibly avoid it.
+When quoting, be very careful to edit the quoted sections down to the bare minimum of text needed to maintain the context for your reply. There is very little on a mailing list that is more annoying than paging through a few pages of quoted text only to read a few lines at the end. Also be careful that you clearly indicate what text you’re quoting (as opposed to what you’re writing), and if possible, cite the author of the original text. If your mail program wants to attach the whole message you’re replying to on the end of your replies, please edit the message prior to sending the reply.
 
 When creating a new topic, please start with a new message in your email client by using the “Compose”, “New Message”, or similar command. Do not simply “Reply” to an existing list message and replace the subject and body. When you use “Reply”, your email software ensures that your new message is included in the existing thread of the original topic. This causes confusion for people who rely on “threading” or “message grouping” in their email client and in the list archives.
 
@@ -107,19 +107,19 @@ Personal messages advertising items wanted or for sale are permitted, providing 
 
 To provide a clear indication that a message has an advertising or transactional nature, please tag the subject line appropriately using the following prefixes:
 
-* [FS] — For Sale (Items for private sale on the list, *not* an auction)
+* [FS] — For Sale (Items for private sale on the list, **not** an auction)
 * [FA] — For Auction (Items being sold via an auction on eBay or similar site)
 * [FT] — For Trade (Items available for exchange, trade, or barter)
 * [WTB] — Want To Buy (Items wanted to purchase)
 * [FREE] — Free or postage paid (Items to giveaway to a good home)
 
-When replying to transactional or other advertising messages, do *not* reply to the list. Reply directly to the author of the original message.
+When replying to transactional or other advertising messages, do **not** reply to the list. Reply directly to the author of the original message.
 
 ### Virus Warnings
 
-Do *not* post virus warnings to the list. This is simply not appropriate mailing list behaviour. Historically, most virus warnings are hoaxes. The best resource for information regarding internet hoaxes, urban legends, and the like is [Snopes](http://www.snopes.com/).
+Do **not** post virus warnings to the list. This is simply not appropriate mailing list behaviour. Historically, most virus warnings are hoaxes. The best resource for information regarding internet hoaxes, urban legends, and the like is [Snopes](http://www.snopes.com/).
 
-Finally, even if it’s a real virus warning, do *not* post it the list.
+Finally, even if it’s a real virus warning, do **not** post it the list.
 
 ### Antispam Software & Services
 
@@ -135,7 +135,7 @@ Or all mail with the following in the ‘To:’ field:
 
 If your antispam software sends messages directly to people who post to the list, you will be removed from the list until you remedy the problem.
 
-If you receive an automated reply from a mail interception service in response to a message that you posted to the list, do *not* complain on the list. Forward the entire message to:
+If you receive an automated reply from a mail interception service in response to a message that you posted to the list, do **not** complain on the list. Forward the entire message to:
 
 [newtontalk-admins@newtontalk.net](mailto:newtontalk-admins@newtontalk.net)
 
@@ -145,13 +145,13 @@ The list administrators will attempt remedy the situation.
 
 Off-topic posts and threads are generally tolerated if they were spawned from an on-topic thread. This is a different policy from many other mailing lists which have established separate lists for off-topic subjects, but here at NewtonTalk we maintain a more casual atmosphere.
 
-However, threads which stray into heated topics such as politics, personal beliefs, morality, PC vs. Mac discussions, and the like should not exist on the list. Please take these topics to a more appropriate forum (like Usenet or your local tavern).
+However, threads which stray into heated topics such as politics, religion, personal beliefs, morality, computer operating systems, and the like should not take place on the list. Please take these topics to a more appropriate forum (like Usenet or your local tavern).
 
 Please tag any off-topic posts with an [OT] prefix in the subject line. This makes it easier for other list members who may not want to read these post to filter them out.
 
 ### Polls & Surveys
 
-Please do not post polls or survey questions to the list. If you have an idea for an interesting topic involving a poll or survey, please contact:
+Do **not** post polls or survey questions to the list. If you have an idea for an interesting topic involving a poll or survey, please contact:
 
 [newtontalk-admins@newtontalk.net](mailto:newtontalk-admins@newtontalk.net)
 
@@ -159,7 +159,7 @@ There are many services available that provide the means to easily create free o
 
 ### Quoting Limits
 
-The list software enforces rules for the maximum number of lines in any list message that it quoted from another message. If a message is over 50 lines total length, then the message must not be more than 70% quoted lines. If a message breaks this rule it will *not* be posted to the list; instead, the sender will receive a notification and be asked to revise and re-send their message.
+The list software enforces rules for the maximum number of lines in any list message that it quoted from another message. If a message is over 50 lines total length, then the message must not be more than 70% quoted lines. If a message breaks this rule it will **not** be posted to the list; instead, the sender will receive a notification and be asked to revise and re-send their message.
 
 ### Message Formats
 
@@ -290,6 +290,13 @@ The indubitable [Morgan Aldridge](http://www.makkintosshu.com/) steps in as back
 From 2001 and 2007, the online hosting was graciously provided by [Bill Shamam](https://shamam.com/).
 
 ## Release Notes
+
+### 05 February 2021
+
+* Updated link to ‘Starting a new thread?’ post
+* Fixed non-Markdown formatted links
+* Emboldened all the ‘nots’
+* Minor edits for clarity
 
 ### 04 February 2021
 
