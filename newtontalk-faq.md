@@ -4,7 +4,7 @@ Frequently asked questions on the policies, etiquette, and history of the Newton
 
 Document maintained by [Grant Hutchinson](https://github.com/splorp/)
 
-Updated: 05 February 2021
+Updated: 06 February 2021
 
 ## Table of Contents
 
@@ -205,15 +205,17 @@ The digest is sent whenever its size reaches 50K, or every 12 hours, if the firs
 
 ### How do I find out what my current status is?
 
-Use the handy, dandy web interface:
+Use the following page to access your subscription information.
 
-[newtontalk.net](http://www.newtontalk.net/)
+[http://lists.newtontalk.net/mailman/listinfo/newtontalk](http://lists.newtontalk.net/mailman/listinfo/newtontalk)
 
 ### How do I set vacation mode?
 
 ### How do I get out of vacation mode?
 
-Send a message from your subscribed address to [ecartis@newtontalk.net](mailto:ecartis@newtontalk.net) with the string “set vacation” (without quotes) in the subject line. You can leave the body of the message blank. To unset, change the word “set” above to “unset”.
+To update your mailing list settings, resend your account password, or change your subscribed email address, use the following page to access your subscription information.
+
+[http://lists.newtontalk.net/mailman/listinfo/newtontalk](http://lists.newtontalk.net/mailman/listinfo/newtontalk)
 
 ### Why didn’t the file I posted to the list show up?
 
@@ -224,6 +226,8 @@ The list software automatically strips away attached files and HTML from message
 You can’t.
 
 ### How do I remove all of my messages from the list archive?
+
+Again, you can’t.
 
 NewtonTalk is an open, public venue for communication and discussion. All posts to the list are publicly archived in two places:
 
@@ -290,6 +294,10 @@ The indubitable [Morgan Aldridge](http://www.makkintosshu.com/) steps in as back
 From 2001 and 2007, the online hosting was graciously provided by [Bill Shamam](https://shamam.com/).
 
 ## Release Notes
+
+### 06 February 2021
+
+* Updated links to list subscription information
 
 ### 05 February 2021
 
