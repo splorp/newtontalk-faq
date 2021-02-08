@@ -4,7 +4,7 @@ Frequently asked questions on the policies, etiquette, and history of the Newton
 
 Document maintained by [Grant Hutchinson](https://github.com/splorp/)
 
-Updated: 06 February 2021
+Updated: 08 February 2021
 
 ## Table of Contents
 
@@ -191,6 +191,12 @@ Email addresses which generate delivery errors for more than 30 days (Need to ch
 
 ## Mailing List Settings
 
+Settings for your mailing list subscription may be updated through a web interface or via requests sent to the [newtontalk-request@newtontalk.net](mailto:newtontalk-request@newtontalk.net) email address.
+
+Use [mailing list information page]() to access your subscription information. This includes viewing and updating your list subscription settings, resending your subscription password, or changing your email address.
+
+[http://lists.newtontalk.net/mailman/listinfo/newtontalk](http://lists.newtontalk.net/mailman/listinfo/newtontalk)
+
 ### How do I subscribe to the list?
 
 ### How do I unsubscribe from the list?
@@ -201,25 +207,17 @@ Email addresses which generate delivery errors for more than 30 days (Need to ch
 
 ### How often is the digest sent?
 
-The digest is sent whenever its size reaches 50K, or every 12 hours, if the first condition isn’t reached.
+The digest is sent whenever the cumulative size of the messages reaches 50kb or every 24 hours, whichever comes first.
 
 ### How do I find out what my current status is?
-
-Use the following page to access your subscription information.
-
-[http://lists.newtontalk.net/mailman/listinfo/newtontalk](http://lists.newtontalk.net/mailman/listinfo/newtontalk)
 
 ### How do I set vacation mode?
 
 ### How do I get out of vacation mode?
 
-To update your mailing list settings, resend your account password, or change your subscribed email address, use the following page to access your subscription information.
+### Why didn’t the attachment, image, screenshot, or file I posted to the list show up?
 
-[http://lists.newtontalk.net/mailman/listinfo/newtontalk](http://lists.newtontalk.net/mailman/listinfo/newtontalk)
-
-### Why didn’t the file I posted to the list show up?
-
-The list software automatically strips away attached files and HTML from messages. Everything is plain text for maximum compatibility with all mail software.
+The list software automatically strips attachments and HTML formatting from messages. All messages posted to the list are formatting as plain text for compatibility with all email clients and platforms.
 
 ### How do I remove a message from the list archive?
 
@@ -294,6 +292,10 @@ The indubitable [Morgan Aldridge](http://www.makkintosshu.com/) steps in as back
 From 2001 and 2007, the online hosting was graciously provided by [Bill Shamam](https://shamam.com/).
 
 ## Release Notes
+
+### 08 February 2021
+
++ Additional editing and clarification of ‘Mailing List Settings’
 
 ### 06 February 2021
 
