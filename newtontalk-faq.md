@@ -145,7 +145,7 @@ The list administrators will attempt remedy the situation.
 
 Off-topic posts and threads are generally tolerated if they were spawned from an on-topic thread. This is a different policy from many other mailing lists which have established separate lists for off-topic subjects, but here at NewtonTalk we maintain a more casual atmosphere.
 
-However, threads which stray into heated topics such as politics, religion, personal beliefs, morality, computer operating systems, and the like should not take place on the list. Please take these topics to a more appropriate forum (like Usenet or your local tavern).
+However, threads which stray into heated topics such as politics, religion, personal beliefs, morality, computer operating systems, and the like should not take place on the list. Please take these topics to a more appropriate forum (like an off-list email thread or your local tavern).
 
 Please tag any off-topic posts with an [OT] prefix in the subject line. This makes it easier for other list members who may not want to read these post to filter them out.
 
@@ -182,8 +182,6 @@ Once a message is posted, it cannot be removed from the archive, either on the N
 ### RSS Feed
 
 The RSS feed is currently offline.
-
-The subject and first 100 lines of the latest 10 posts to the list are also available via an RSS 2.0 [feed](http://www.newtontalk.net/newtontalk.rss) (currently broken). Each entry in the RSS feed contains a link to the full message in the archive.
 
 ### Undeliverable Messages
 
