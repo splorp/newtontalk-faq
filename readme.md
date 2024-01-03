@@ -1,6 +1,6 @@
 # The NewtonTalk FAQ
 
-Frequently asked questions, etiquette, and guidelines for the [NewtonTalk](http://newtontalk.net/) mailing list.
+Frequently asked questions, etiquette, and guidelines for the [NewtonTalk](https://newtontalk.net/) mailing list.
 
 #### Current Release
 

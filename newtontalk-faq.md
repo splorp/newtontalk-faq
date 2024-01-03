@@ -27,13 +27,13 @@ The website and mailing list are currently managed by [Grant Hutchinson](http://
 
 ### What makes NewtonTalk tick?
 
-The website and mailing list are hosted by the kind folks at [Media Temple](https://mediatemple.net/). The website is built using plain old HTML and CSS, with a smattering of custom PHP just for kicks. Our development tool of choice is [BBEdit](http://www.barebones.com/products/bbedit/). To manage the mailing list, we are using a slightly creaky version of [Mailman](http://list.org/) that comes preinstalled with the [Plesk](http://www.plesk.com/) web management suite. It’s not pretty, but it works.
+The website and mailing list are hosted by the kind folks at [Media Temple](https://mediatemple.net/). The website is built using plain old HTML and CSS, with a smattering of custom PHP just for kicks. Our development tool of choice is [BBEdit](https://www.barebones.com/products/bbedit/). To manage the mailing list, we are using a slightly creaky version of [Mailman](https://list.org/) that comes preinstalled with the [Plesk](https://www.plesk.com/) web management suite. It’s not pretty, but it works.
 
 ## Mailing List Etiquette
 
 Arguably, the best source of guidelines for network etiquette (Netiquette) is [RFC 1855](https://www.ietf.org/rfc/rfc1855.txt), as prepared by Sally Hambridge for the [Internet Engineering Task Force](https://www.ietf.org/) (IETF). It’s a classic.
 
-Parts of this FAQ have been lovingly adapted from the [Mailing List Etiquette FAQ](http://www.gweep.ca/~edmonds/usenet/ml-etiquette.html) by Brian Edmonds.
+Parts of this FAQ have been lovingly adapted from the [Mailing List Etiquette FAQ](https://web.archive.org/web/20170426175120/http://www.gweep.ca:80/~edmonds/usenet/ml-etiquette.html) by Brian Edmonds.
 
 ### How do I post a message to the list?
 
@@ -117,7 +117,7 @@ When replying to transactional or other advertising messages, do **not** reply t
 
 ### Virus Warnings
 
-Do **not** post virus warnings to the list. This is simply not appropriate mailing list behaviour. Historically, most virus warnings are hoaxes. The best resource for information regarding internet hoaxes, urban legends, and the like is [Snopes](http://www.snopes.com/).
+Do **not** post virus warnings to the list. This is simply not appropriate mailing list behaviour. Historically, most virus warnings are hoaxes. The best resource for information regarding internet hoaxes, urban legends, and the like is [Snopes](https://www.snopes.com/).
 
 Finally, even if it’s a real virus warning, do **not** post it the list.
 
@@ -155,7 +155,7 @@ Do **not** post polls or survey questions to the list. If you have an idea for a
 
 [newtontalk-admins@newtontalk.net](mailto:newtontalk-admins@newtontalk.net)
 
-There are many services available that provide the means to easily create free online polls and surveys, such as [SurveyMonkey](https://www.surveymonkey.com/), [Google Forms](https://docs.google.com/forms/), and [Typeform](http://www.typeform.com/).
+There are many services available that provide the means to easily create free online polls and surveys, such as [SurveyMonkey](https://www.surveymonkey.com/), [Google Forms](https://docs.google.com/forms/), and [Typeform](https://www.typeform.com/).
 
 ### Quoting Limits
 
@@ -173,7 +173,7 @@ The mailing list software automatically strips attached files from messages. All
 
 Messages posted to NewtonTalk are automatically included in two list archives:
 
-[newtontalk.net/archive/](http://www.newtontalk.net/archive/)
+[newtontalk.net/archive/](https://www.newtontalk.net/archive/)
 
 [marc.info/?l=newtontalk](https://marc.info/?l=newtontalk)
 
@@ -231,7 +231,7 @@ NewtonTalk is an open, public venue for communication and discussion. All posts 
 
 On the NewtonTalk website:
 
-[newtontalk.net/archive/](http://www.newtontalk.net/archive/)
+[newtontalk.net/archive/](https://www.newtontalk.net/archive/)
 
 On the searchable MARC archive:
 
@@ -247,7 +247,7 @@ Prior to June 1999, the list was run Sean O’Shaughnessy. Details from this per
 
 How do we know this?
 
-Well, there’s a couple of clues. First of all, a “list sponsor” was mentioned on [the earliest archived version](http://web.archive.org/web/19981206175529/http://www.newtontalk.com/) of the NewtonTalk site dated October 1997. Secondly, [another archived page](http://web.archive.org/web/19981205124623/http://www.newtontalk.com/topics.html) of “Frequent Topics” contains the following statements from Sean … “I have been storing all of the NewtonTalk messages in a FileMaker database since the list originated.” and “The searches were performed on digests 1-1299 which approximately covers Aug 1, 1997 to May 7, 1998.”
+Well, there’s a couple of clues. First of all, a “list sponsor” was mentioned on [the earliest archived version](https://web.archive.org/web/19981206175529/http://www.newtontalk.com/) of the NewtonTalk site dated October 1997. Secondly, [another archived page](https://web.archive.org/web/19981205124623/http://www.newtontalk.com/topics.html) of “Frequent Topics” contains the following statements from Sean … “I have been storing all of the NewtonTalk messages in a FileMaker database since the list originated.” and “The searches were performed on digests 1-1299 which approximately covers Aug 1, 1997 to May 7, 1998.”
 
 ### What happened to Planet Newton running the list?
 
@@ -265,7 +265,7 @@ Things were all tickety-boo for a while, but in 2000 the list stared having prob
 
 During this period of unrest and dissatisfaction, two “emergency” lists were created. Just in case Planet Newton went down permanently.
 
-The [NewtonTalk2](http://web.archive.org/web/20050312153858/http://groups.yahoo.com/group/newtontalk2/) list was created by Rich “This Old Newt” Lindsay on May 13th, 2000.
+The [NewtonTalk2](https://web.archive.org/web/20050312153858/http://groups.yahoo.com/group/newtontalk2/) list was created by Rich “This Old Newt” Lindsay on May 13th, 2000.
 
 (This section requires clarification of mailing list names, locations, and activation dates.)
 
@@ -273,7 +273,7 @@ During this time, many people asked Planet Newton if they would consider giving 
 
 In May 2001, Planet Newton experienced a complete server failure. Both the website and mailing list suddenly disappeared. Fortunately, there had already been an effort in the works to replace the increasingly unreliable Planet Newton mailing list with a community run server.
 
-On June 12th, 2001, the [NewtonTalk.net](http://www.newtontalk.net/) website and mailing list was launched.
+On June 12th, 2001, the [NewtonTalk.net](https://www.newtontalk.net/) website and mailing list was launched.
 
 The current list administrator, Grant Hutchinson, secured the old newtontalk.com domain name in 2002 and the newtontalk.org domain name in 2007.
 
