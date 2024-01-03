@@ -4,7 +4,7 @@ Frequently asked questions on the policies, etiquette, and history of the Newton
 
 Document maintained by [Grant Hutchinson](https://github.com/splorp/)
 
-Updated: 08 February 2021
+Updated: 03 January 2024
 
 ## Table of Contents
 
@@ -292,6 +292,13 @@ The indubitable [Morgan Aldridge](http://www.makkintosshu.com/) steps in as back
 From 2001 and 2007, the online hosting was graciously provided by [Bill Shamam](https://shamam.com/).
 
 ## Release Notes
+
+### 03 January 2024
+
++ Removed reference to Usenet as an forum for off-topic posts
++ Removed details regarding the offline RSS feed
++ Updated the link to the Mailing List Etiquette FAQ
++ Added link to the NewtonTalk Mastodon account
 
 ### 08 February 2021
 
