@@ -19,8 +19,9 @@ Frequently asked questions, etiquette, and guidelines for the [NewtonTalk](http:
 
 [admin@newtontalk.net](mailto:admin@newtontalk.net)
 
-#### Follow us on Twitter.
+#### Follow Us
 
-[@newtontalk](http://twitter.com/newtontalk)
+[@newtontalk@bitbang.social](https://bitbang.social/@newtontalk) on Mastodon
+[@newtontalk](https://twitter.com/newtontalk) on Twitter
 
-Copyright © 1999–2021 [NewtonTalk](http://newtontalk.net/), et al.
+Copyright © 1999–2024 [NewtonTalk](http://newtontalk.net/) & Friends

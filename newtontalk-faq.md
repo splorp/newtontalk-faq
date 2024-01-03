@@ -285,6 +285,8 @@ He even managed to regain control of the planetnewton.com domain in 2014.
 
 In May 2008, Grant started the [@newtontalk](https://twitter.com/newtontalk) Twitter account and has maintained its editorial (and occasionally snarky) voice ever since.
 
+In November 2023, Grant added the [@newtontalk@bitbang.social](https://bitbang.social/@newtontalk) Mastodon account.
+
 The indubitable [Morgan Aldridge](http://www.makkintosshu.com/) steps in as back up admin when needed.
 
 [Victor Rehorst](http://www.chuma.org/) and [Paul Guyot](http://www.kallisys.com/) were co-administrators of the list after the transition from Planet Newton in 2001. Paul also programmed the original mailing list web interface. Both provided invaluable help and support after handing over the digital reins. Victor is still considered the list dad emeritus.
