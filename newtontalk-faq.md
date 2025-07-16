@@ -4,7 +4,7 @@ Frequently asked questions on the policies, etiquette, and history of the Newton
 
 Document maintained by [Grant Hutchinson](https://github.com/splorp/)
 
-Updated: 03 January 2024
+Updated: 16 July 2025
 
 ## Table of Contents
 
@@ -285,6 +285,8 @@ In May 2008, Grant started the [@newtontalk](https://twitter.com/newtontalk) Twi
 
 In November 2023, Grant added the [@newtontalk@bitbang.social](https://bitbang.social/@newtontalk) Mastodon account.
 
+In December 2024, Grant added the [@newtontalk.bsky.social](https://bsky.app/profile/newtontalk.bsky.social) Bluesky account.
+
 The indubitable [Morgan Aldridge](http://www.makkintosshu.com/) steps in as back up admin when needed.
 
 [Victor Rehorst](http://www.chuma.org/) and [Paul Guyot](http://www.kallisys.com/) were co-administrators of the list after the transition from Planet Newton in 2001. Paul also programmed the original mailing list web interface. Both provided invaluable help and support after handing over the digital reins. Victor is still considered the list dad emeritus.
@@ -292,6 +294,10 @@ The indubitable [Morgan Aldridge](http://www.makkintosshu.com/) steps in as back
 From 2001 and 2007, the online hosting was graciously provided by [Bill Shamam](https://shamam.com/).
 
 ## Release Notes
+
+### 16 July 2025
+
++ Added link to the NewtonTalk Bluesky account
 
 ### 03 January 2024
 
