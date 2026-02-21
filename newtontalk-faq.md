@@ -4,7 +4,7 @@ Frequently asked questions on the policies, etiquette, and history of the Newton
 
 Document maintained by [Grant Hutchinson](https://github.com/splorp/)
 
-Updated: 16 July 2025
+Updated: 21 February 2026
 
 ## Table of Contents
 
@@ -281,7 +281,7 @@ He even managed to regain control of the planetnewton.com domain in 2014.
 
 [Grant Hutchinson](https://splorp.com/) has been administering the mailing list and website since March 2007.
 
-In May 2008, Grant started the [@newtontalk](https://twitter.com/newtontalk) Twitter account and has maintained its editorial (and occasionally snarky) voice ever since.
+In May 2008, Grant opened the @newtontalk Twitter account. He maintained its editorial (and occasionally snarky) voice up until February 2026, when the account was permanently mothballed.
 
 In November 2023, Grant added the [@newtontalk@bitbang.social](https://bitbang.social/@newtontalk) Mastodon account.
 
@@ -294,6 +294,10 @@ The indubitable [Morgan Aldridge](http://www.makkintosshu.com/) steps in as back
 From 2001 and 2007, the online hosting was graciously provided by [Bill Shamam](https://shamam.com/).
 
 ## Release Notes
+
+### 21 February 2026
+
++ Removed link to the NewtonTalk Twitter account and updated some details
 
 ### 16 July 2025
 

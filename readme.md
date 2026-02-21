@@ -23,6 +23,5 @@ Frequently asked questions, etiquette, and guidelines for the [NewtonTalk](https
 
 * [@newtontalk@bitbang.social](https://bitbang.social/@newtontalk) on Mastodon
 * [@newtontalk.bsky.social](https://bsky.app/profile/newtontalk.bsky.social) on Bluesky
-* [@newtontalk](https://twitter.com/newtontalk) on Twitter
 
-Copyright © 1999–2025 [NewtonTalk](http://newtontalk.net/) & Friends
+Copyright © 1999–2026 [NewtonTalk](http://newtontalk.net/) & Friends
